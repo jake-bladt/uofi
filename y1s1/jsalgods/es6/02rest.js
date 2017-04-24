@@ -4,3 +4,5 @@ function listPets(...names) {
     console.log(names[i]);
   }
 }
+
+listPets('Flopsy', 'Mopsy', 'Cottontail');
