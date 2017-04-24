@@ -3,4 +3,4 @@ function hasPets(owner, petType, count) {
 }
 
 let theArgs = ['Jake', 'kitten', 'many'];
-console.log(hasPets(theArgs));
+console.log(hasPets(...theArgs));
