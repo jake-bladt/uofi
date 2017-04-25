@@ -11,6 +11,7 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 * (2017-Apr-20) [NYU's CS Degree Program](http://engineering.nyu.edu/files/Pre-requisites-7.png)
 * (2017-Apr-19) [The bin-packing problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
 * (2017-Apr-18) [Harvard's CS50](https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
+* (2017-Apr-17) [The Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp)
 
 ## Dev Tools
 
@@ -21,6 +22,8 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 
 * (2017-Apr-25) [The Infrastructure Behind Twitter Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale)
 * (2017-Apr-12) [Packer](https://www.packer.io/)
+* (2017-Apr-6) [Gitlab](https://about.gitlab.com/)
+* (2017-Apr-5) [DC/OS](https://stackshare.io/dcos) - Data Center Operating System
 
 ## JavaScript Libraries
 
@@ -29,11 +32,28 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 * (2017-Apr-2) [Sails for Node](http://sailsjs.com/
 )
 
+## Programming Languages
+
+* [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
+
+## Python Libraries
+
+* [Boto](https://boto3.readthedocs.io/en/latest/reference/services/elbv2.html) - AWS core Python Library
+
+## Ruby Libraries
+
+* [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
+https://github.com/github/linguist
+
 ## Utilities
 
 * (2017-Apr-18) [NextCloud](https://nextcloud.com/)
 * (2017-Apr-12) [Upspin](https://upspin.io) - Distributed file system
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
+
+## Web Design
+
+* [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
 
 ## Uncategorized
 
