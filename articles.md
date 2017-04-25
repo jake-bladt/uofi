@@ -1,4 +1,4 @@
-# Worthwhile articles to review
+# Further Reading
 
 ## Artificial Intelligence
 
@@ -19,6 +19,7 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 ## Devops
 
 * (2017-Apr-25) [The Infrastructure Behind Twitter Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale)
+* (2017-Apr-12) [Packer](https://www.packer.io/)
 
 ## JavaScript Libraries
 
