@@ -24,25 +24,35 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 * (2017-Apr-12) [Packer](https://www.packer.io/)
 * (2017-Apr-6) [Gitlab](https://about.gitlab.com/)
 * (2017-Apr-5) [DC/OS](https://stackshare.io/dcos) - Data Center Operating System
+* (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
+
+## Image Processing
+
+* (2017-Apr-13) [Fundamentals of Image Processing](https://www.codeproject.com/Articles/781213/Fundamentals-of-Image-Processing-behind-the-scenes)
 
 ## JavaScript Libraries
 
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
 * (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
-* (2017-Apr-2) [Sails for Node](http://sailsjs.com/
-)
+* (2017-Apr-2) [Sails for Node](http://sailsjs.com/)
+
+## Linux
+
+* (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
+* (24-Apr-2017) [Build your own Linux Distro](http://www.wikihow.com/Build-Your-Own-Linux-Distribution)
 
 ## Programming Languages
 
-* [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
+* (2017-Apr-24) [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
 
 ## Python Libraries
 
-* [Boto](https://boto3.readthedocs.io/en/latest/reference/services/elbv2.html) - AWS core Python Library
+* (2017-Apr-24) [Boto](https://boto3.readthedocs.io/en/latest/reference/services/elbv2.html) - AWS core Python Library
+* (2017-Apr-24) [Grumpy](http://www.infoworld.com/article/3154624/application-development/google-boosts-python-by-turning-it-into-go.html) - Python into Go.
 
 ## Ruby Libraries
 
-* [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
+* (2017-Apr-24) [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
 https://github.com/github/linguist
 
 ## Utilities
@@ -58,3 +68,5 @@ https://github.com/github/linguist
 ## Uncategorized
 
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
+* (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
+* (2017-Apr-14) [Developer Portfolios](https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/)
