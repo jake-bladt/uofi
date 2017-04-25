@@ -7,3 +7,7 @@
 ## Dev Tools
 
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
+
+## JavaScript Libraries
+
+* (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
