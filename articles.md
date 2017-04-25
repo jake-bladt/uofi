@@ -9,6 +9,7 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 
 * (2017-Apr-23) [Tokenizers in JavaScript](https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9)
 * (2017-Apr-20) [NYU's CS Degree Program](http://engineering.nyu.edu/files/Pre-requisites-7.png)
+* (2017-Apr-19) [The bin-packing problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
 
 ## Dev Tools
 
@@ -22,3 +23,9 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 ## JavaScript Libraries
 
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
+* (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
+
+## Utilities
+
+* (2017-Apr-18) [NextCloud](https://nextcloud.com/)
+* (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
