@@ -25,6 +25,9 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 * (2017-Apr-6) [Gitlab](https://about.gitlab.com/)
 * (2017-Apr-5) [DC/OS](https://stackshare.io/dcos) - Data Center Operating System
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
+* (2017-Apr-3) Capital One uses balancer features
+https://www.youtube.com/watch?v=uFs_EwJr-yc
+
 
 ## Image Processing
 
