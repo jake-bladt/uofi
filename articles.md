@@ -28,6 +28,9 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 * (2017-Apr-3) Capital One uses balancer features
 https://www.youtube.com/watch?v=uFs_EwJr-yc
 
+## Hiring
+
+* (2017-Apr-27) [The LinkedIn REACH program](https://careers.linkedin.com/reach/AboutReach)
 
 ## Image Processing
 
