@@ -79,6 +79,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Apr-28) [Fable - an F#=>JavaScript Transpiler](http://fable.io/)
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
 * (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
 * (2017-Apr-14) [Developer Portfolios](https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/)
