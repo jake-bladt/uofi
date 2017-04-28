@@ -2,6 +2,8 @@
 
 ## Artificial Intelligence
 
+* (2017-Apr-29) [Machine Learning Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](Inkling
 http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 
@@ -20,6 +22,7 @@ http://www.javaworld.com/article/3190784/application-development/new-ai-language
 
 ## Devops
 
+* (2017-Apr-28) [Persistence in Docker](https://thenewstack.io/methods-dealing-container-storage/)
 * (2017-Apr-28) [Github monitoring with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/)
 * (2017-Apr-25) [The Infrastructure Behind Twitter Scale](https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale)
 * (2017-Apr-12) [Packer](https://www.packer.io/)
@@ -60,6 +63,8 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## Programming Languages
 
+* (2017-Apr-29) [Master C++ Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
+* (2017-Apr-29) [Go Web Examples](https://gowebexamples.github.io/)
 * (2017-Apr-24) [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
 
 ## Python Libraries
@@ -74,6 +79,9 @@ https://github.com/github/linguist
 
 ## Utilities
 
+* (2018-Apr-29) [Iron.io](https://medium.com/iron-io-blog/functions-ui-b9de60e3ddf7) - Serverless services
+* (2018-Apr-29) [FlyImg](http://flyimg.io/) - On-the-fly image resizing
+* (2017-Apr-28) [BugSnag](https://www.bugsnag.com/platforms/javascript)
 * (2017-Apr-18) [NextCloud](https://nextcloud.com/)
 * (2017-Apr-12) [Upspin](https://upspin.io) - Distributed file system
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
