@@ -36,6 +36,10 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 * (2017-Apr-13) [Fundamentals of Image Processing](https://www.codeproject.com/Articles/781213/Fundamentals-of-Image-Processing-behind-the-scenes)
 
+## JavaScript
+
+* (2017-Apr-28) [JavaScript errors and stack traces in depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
+
 ## JavaScript Libraries
 
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
