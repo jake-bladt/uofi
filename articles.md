@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 * (2017-Apr-28) [JavaScript errors and stack traces in depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
 
+* (2017-Apr-28) [An Introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack)
+
 ## JavaScript Libraries
 
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
