@@ -4,11 +4,12 @@
 
 * (2017-Apr-29) [Machine Learning Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
-* (2017-Apr-22) [Inkling](Inkling
-http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
+* (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 
 ## Computer Science
 
+* (2017-Apr-28) [Teach Yourself CS](https://teachyourselfcs.com)
+* (2017-Apr-28) [Problem Solving with Algorithms and Data Structures in Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 * (2017-Apr-23) [Tokenizers in JavaScript](https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9)
 * (2017-Apr-20) [NYU's CS Degree Program](http://engineering.nyu.edu/files/Pre-requisites-7.png)
 * (2017-Apr-19) [The bin-packing problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
@@ -42,6 +43,9 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript
 
+* [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
+* (2017-Apr-28) [Async/Await vs. Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+* (2017-Apr-28) [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
 * (2017-Apr-28) [Javascript Modules](http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
 * (2017-Apr-28) [ES6 Numbers](https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469)
 * (2017-Apr-28) [ES6 Maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
@@ -52,6 +56,7 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript Libraries
 
+* (2017-Apr-28) [Intro to React Native](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
 * (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
 * (2017-Apr-2) [Sails for Node](http://sailsjs.com/)
@@ -61,8 +66,14 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
 * (24-Apr-2017) [Build your own Linux Distro](http://www.wikihow.com/Build-Your-Own-Linux-Distribution)
 
+## Managing
+
+* (28-Apr-2017) [Burnout](https://qz.com/932813/employee-burnout-is-becoming-a-huge-problem-in-the-american-workforce/)
+* (28-Apr-2017) [Abandoning Fake Deadlines](https://medium.com/garbage-collection/abandoning-fake-deadlines-4d535b9aec3b)
+
 ## Programming Languages
 
+* (2017-Apr-29) [Articulate LISP](http://articulate-lisp.com/)
 * (2017-Apr-29) [Master C++ Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 * (2017-Apr-29) [Go Web Examples](https://gowebexamples.github.io/)
 * (2017-Apr-24) [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
@@ -79,16 +90,17 @@ https://github.com/github/linguist
 
 ## Utilities
 
-* (2018-Apr-29) [Iron.io](https://medium.com/iron-io-blog/functions-ui-b9de60e3ddf7) - Serverless services
-* (2018-Apr-29) [FlyImg](http://flyimg.io/) - On-the-fly image resizing
+* (2017-Apr-28) [Iron.io](https://medium.com/iron-io-blog/functions-ui-b9de60e3ddf7) - Serverless services
+* (2017-Apr-28) [FlyImg](http://flyimg.io/) - On-the-fly image resizing
 * (2017-Apr-28) [BugSnag](https://www.bugsnag.com/platforms/javascript)
 * (2017-Apr-18) [NextCloud](https://nextcloud.com/)
 * (2017-Apr-12) [Upspin](https://upspin.io) - Distributed file system
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
 
 ## Web Design
-
-* [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
+* (2017-Apr-28) [An Encyclopedic Approach to Type](http://luc.devroye.org/fonts.html)
+* (2017-Apr-28) [Animista](http://animista.net/)
+* (2017-Apr-28) [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
 
 ## Uncategorized
 
