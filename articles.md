@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript
 
+* (2017-Apr-28) [Javascript Modules](http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+* (2017-Apr-28) [ES6 Numbers](https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469)
 * (2017-Apr-28) [ES6 Maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
 * (2017-Apr-28) [JavaScript Decorators](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947)
 * (2017-Apr-28) [JavaScript errors and stack traces in depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
