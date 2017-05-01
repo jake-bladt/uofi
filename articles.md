@@ -8,6 +8,7 @@
 
 ## Computer Science
 
+* (2017-May-01) [Programming as a Way of Thinking](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/)
 * (2017-May-01) [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 * (2017-Apr-28) [Teach Yourself CS](https://teachyourselfcs.com)
 * (2017-Apr-28) [Problem Solving with Algorithms and Data Structures in Python](http://interactivepython.org/runestone/static/pythonds/index.html)
