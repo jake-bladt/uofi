@@ -9,6 +9,7 @@
 
 ## Computer Science
 
+* (2017-May-01) [The Education of a Programmer](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
 * (2017-May-01) [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 * (2017-May-01) [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 * (2017-May-01) [Programming as a Way of Thinking](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/)
