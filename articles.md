@@ -50,7 +50,8 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript
 
-* [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
+* (2017-May-01) [Understanding differences between npm, yarn and pnpm](https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/) 
+* (2017-Apr-28) [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
 * (2017-Apr-28) [Async/Await vs. Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 * (2017-Apr-28) [Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9)
 * (2017-Apr-28) [Javascript Modules](http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
