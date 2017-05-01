@@ -8,6 +8,7 @@
 
 ## Computer Science
 
+* (2017-May-01) [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
 * (2017-Apr-28) [Teach Yourself CS](https://teachyourselfcs.com)
 * (2017-Apr-28) [Problem Solving with Algorithms and Data Structures in Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 * (2017-Apr-23) [Tokenizers in JavaScript](https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9)
