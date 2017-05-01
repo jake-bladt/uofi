@@ -9,6 +9,7 @@
 
 ## Computer Science
 
+* (2017-May-01) [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 * (2017-May-01) [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 * (2017-May-01) [Programming as a Way of Thinking](https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking/)
 * (2017-May-01) [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/)
