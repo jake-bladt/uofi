@@ -5,3 +5,5 @@ DevOps arises out of agile, but it's not necessarily of Agile. You could be writ
 Question: What would be the advantages of a database that stored data independently of its schemae and used the schemae as versioned read/write contracts?
 
 Tolerant Reader pattern: a pattern by which software ignores data it doesn't recognize (akin to duck-typing.)
+
+Microservices / monolithic databases.
