@@ -2,6 +2,7 @@
 
 ## Artificial Intelligence
 
+* (2017-May-03) [Reinforcement Learning](https://dev.to/amreis/a-taste-of-reinforcement-learning)
 * (2017-May-01) [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/page/phase-functioned-neural-networks-character-control)
 * (2017-Apr-29) [Machine Learning Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
