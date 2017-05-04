@@ -11,3 +11,5 @@ Microservices / monolithic databases.
 Sikuli for UI testing
 libvert api for VM management?
 Investigate ansible (CI/CD)
+
+Part II, Chapter 6: Taking a snapshot of a Docker container. See "docker commit."
