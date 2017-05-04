@@ -21,3 +21,6 @@ Research configuring rsyslog to push to S3.
 
 Open Source alternatives to New Relic:
 http://alternativeto.net/software/new-relic/?license=free
+
+Check out Module 3 for ideas about Lean->Longevity
+
