@@ -9,3 +9,4 @@ Tolerant Reader pattern: a pattern by which software ignores data it doesn't rec
 Microservices / monolithic databases.
 
 Sikuli for UI testing
+libvert api for VM management?
