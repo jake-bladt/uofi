@@ -17,6 +17,9 @@ UNRECOGNIZED = 0
 LETTER = 1
 SYMBOL = 2
 
+valid_oper_parts = list('!-><^|')
+valid_multipart_operators = ['->', '<->']
+
 def categorize(char):
   if is_letter(char): return LETTER
   return UNRECOGNIZED
