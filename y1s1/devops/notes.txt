@@ -15,3 +15,5 @@ Investigate ansible (CI/CD)
 Part II, Chapter 6: Taking a snapshot of a Docker container. See "docker commit."
 
 Use InfluxDB as a time-series database.
+
+Look at rsyslog for log consolidation.
