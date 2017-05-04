@@ -31,6 +31,7 @@
 
 ## Devops
 
+* (2017-May-04) [Network Traffic Monitoring with Docker](http://engineering.pivotal.io/post/network-traffic-monitoring-with-containers/)
 * (2017-May-01) [The design, implementation and deployment of a system to transparently compress hundreds of petabytes of image files for a file storage service](https://blog.acolyer.org/2017/05/01/the-design-implementation-and-deployment-of-a-system-to-transparently-compress-hundreds-of-petabytes-of-image-files-for-a-file-storage-service/)
 * (2017-Apr-28) [Persistence in Docker](https://thenewstack.io/methods-dealing-container-storage/)
 * (2017-Apr-28) [Github monitoring with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/)
