@@ -46,6 +46,16 @@ def is_letter(char):
 def is_valid_symbol(char):
   return char in valid_oper_parts
 
+def reconcile_op_buffer(buffer):
+  if 0 == len(buffer):
+    return None
+
+  sym = ''.join(buffer)
+  if sym in valid_multipart_operators:
+
+  else:
+    
+
 def tokenize(expression):
   ret = []
   oper_buffer = []
@@ -59,6 +69,7 @@ def tokenize(expression):
       print 'Unrecognized character: ' + c
       sys.exit(-1)
     if LETTER == cat:
+      if reconcile_op_buffer(oper_buffer) is not None:
 
 
   return ret
