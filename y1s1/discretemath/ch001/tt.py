@@ -17,15 +17,34 @@ UNRECOGNIZED = 0
 LETTER = 1
 SYMBOL = 2
 
+class Token(object):
+  def __init__(self, type):
+    self.type = type
+
+class Variable(Token):
+  def __init__(self, identifier):
+    self.type = 'Variable'
+    self.identifier = identifier
+
+class Operator(Token):
+  def __init__(self, f):
+    self.type = 'Operator'
+    self.operation = f
+
 valid_oper_parts = list('!-><^|')
 valid_multipart_operators = ['->', '<->']
+valid_simple_operators = list('!^|')
 
 def categorize(char):
   if is_letter(char): return LETTER
+  if is_valid_symbol(char): return SYMBOL
   return UNRECOGNIZED
 
 def is_letter(char):
   return re.match('[a-z]', char)
+
+def is_valid_symbol(char):
+  return char in valid_oper_parts
 
 def tokenize(expression):
   ret = []
@@ -38,7 +57,9 @@ def tokenize(expression):
     cat = categorize(c)
     if UNRECOGNIZED == cat:
       print 'Unrecognized character: ' + c
-      sys.exit(-1) 
+      sys.exit(-1)
+    if LETTER == cat:
+
 
   return ret
 
