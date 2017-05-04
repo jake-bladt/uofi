@@ -18,7 +18,7 @@ LETTER = 1
 SYMBOL = 2
 
 def categorize(char):
-  if is_letter(char) return LETTER
+  if is_letter(char): return LETTER
   return UNRECOGNIZED
 
 def is_letter(char):
@@ -33,8 +33,8 @@ def tokenize(expression):
   wexp_arr = list(working_exp)
   for c in wexp_arr:
     cat = categorize(c)
-    if UNRECOGNIZED = cat:
-      print 'Unrecognized character ' + c
+    if UNRECOGNIZED == cat:
+      print 'Unrecognized character: ' + c
       sys.exit(-1) 
 
   return ret
