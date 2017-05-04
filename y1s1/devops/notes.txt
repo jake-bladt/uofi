@@ -24,3 +24,4 @@ http://alternativeto.net/software/new-relic/?license=free
 
 Check out Module 3 for ideas about Lean->Longevity
 
+Note the use of envsubst instead of the more generic sed.
