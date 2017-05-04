@@ -10,3 +10,4 @@ Microservices / monolithic databases.
 
 Sikuli for UI testing
 libvert api for VM management?
+Investigate ansible (CI/CD)
