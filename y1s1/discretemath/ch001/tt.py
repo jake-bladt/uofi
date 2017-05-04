@@ -6,7 +6,8 @@ def tokenize(expression):
   ret = []
   any_whitespace = re.compile('\s')
   working_exp = re.sub(any_whitespace, '', expression)
-  print working_exp
+  wexp_arr = list(working_exp)
+  print len(wexp_arr)
 
   return ret
 
