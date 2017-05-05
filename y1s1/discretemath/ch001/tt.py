@@ -35,8 +35,9 @@ class Variable(Token):
     self.identifier = identifier
 
 class Operator(Token):
-  def __init__(self, f):
+  def __init__(self, sym, f):
     self.type = 'Operator'
+    self.symbol = sym
     self.operation = f
 
 valid_oper_parts = list('!-><^|')
@@ -59,7 +60,7 @@ def reconcile_op_buffer(buffer, ast):
   sym = ''.join(buffer)
   if sym in valid_multipart_operators:
     buffer = []
-    ast.push(Operator(sym))
+    ast.push(Operator(sym, operations[sym]))
   else:
     print 'Unrecognized operator: ' + sym
     sys.exit(-1)
@@ -80,8 +81,11 @@ def tokenize(expression):
       reconcile_op_buffer(oper_buffer, ret)
       ret.push(Variable(c))
     if SYMBOL == cat:
-      
-
+      if c in valid_simple_operators:
+        reconcile_op_buffer(oper_buffer, ret)
+        ret.push(Operator(c, operations[sym]))
+      else:
+        oper_buffer.push(c)
 
   return ret
 
