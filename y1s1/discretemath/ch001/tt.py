@@ -52,9 +52,10 @@ def reconcile_op_buffer(buffer):
 
   sym = ''.join(buffer)
   if sym in valid_multipart_operators:
-
+    buffer = []
+    return Operator(sym)
   else:
-    
+    print 'Unrecognized operator: ' + sym
 
 def tokenize(expression):
   ret = []
