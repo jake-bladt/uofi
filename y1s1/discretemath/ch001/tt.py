@@ -17,6 +17,13 @@ UNRECOGNIZED = 0
 LETTER = 1
 SYMBOL = 2
 
+operations = {
+  '!':   lambda x: not x,
+  '->':  lambda x,y: not x || y,
+  '<->': lambda x,y: x == y,
+  '^':   lambda x,y: x and y,
+  '|':   lambda x,y: x or y
+}
 
 class Token(object):
   def __init__(self, type):
