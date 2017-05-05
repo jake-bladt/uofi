@@ -46,14 +46,12 @@ def is_letter(char):
 def is_valid_symbol(char):
   return char in valid_oper_parts
 
-def reconcile_op_buffer(buffer):
-  if 0 == len(buffer):
-    return None
-
+def reconcile_op_buffer(buffer, ast):
+  if(len(sym) == 0): return
   sym = ''.join(buffer)
   if sym in valid_multipart_operators:
     buffer = []
-    return Operator(sym)
+    ast.push(Operator(sym))
   else:
     print 'Unrecognized operator: ' + sym
     sys.exit(-1)
@@ -71,8 +69,10 @@ def tokenize(expression):
       print 'Unrecognized character: ' + c
       sys.exit(-1)
     if LETTER == cat:
-      op = reconcile_op_buffer(oper_buffer)
-      if op is not None: ret.push(op)
+      reconcile_op_buffer(oper_buffer, ret)
+      ret.push(Variable(c))
+    if SYMBOL == cat:
+      
 
 
   return ret
