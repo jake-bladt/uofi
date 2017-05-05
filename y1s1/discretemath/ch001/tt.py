@@ -19,7 +19,7 @@ SYMBOL = 2
 
 operations = {
   '!':   lambda x: not x,
-  '->':  lambda x,y: not x || y,
+  '->':  lambda x,y: not x or y,
   '<->': lambda x,y: x == y,
   '^':   lambda x,y: x and y,
   '|':   lambda x,y: x or y
@@ -94,3 +94,4 @@ if len(sys.argv) != 2:
   sys.exit(-1)
 
 ast = tokenize(sys.argv[1])
+print ast
