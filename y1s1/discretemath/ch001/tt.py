@@ -17,6 +17,7 @@ UNRECOGNIZED = 0
 LETTER = 1
 SYMBOL = 2
 
+
 class Token(object):
   def __init__(self, type):
     self.type = type
