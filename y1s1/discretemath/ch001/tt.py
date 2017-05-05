@@ -56,6 +56,7 @@ def reconcile_op_buffer(buffer):
     return Operator(sym)
   else:
     print 'Unrecognized operator: ' + sym
+    sys.exit(-1)
 
 def tokenize(expression):
   ret = []
@@ -70,7 +71,8 @@ def tokenize(expression):
       print 'Unrecognized character: ' + c
       sys.exit(-1)
     if LETTER == cat:
-      if reconcile_op_buffer(oper_buffer) is not None:
+      op = reconcile_op_buffer(oper_buffer)
+      if op is not None: ret.push(op)
 
 
   return ret
