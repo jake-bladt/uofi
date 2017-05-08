@@ -67,7 +67,7 @@ let ll = new LinkedList();
 ll.append('Kitten');
 ll.append('Mother Cat');
 ll.append('Another Kitten');
-ll.insertAfter(0, 'Aufauf');
+ll.insertAfter('Aufauf', 0);
 ll.print();
 
 ll.removeAt(1);
