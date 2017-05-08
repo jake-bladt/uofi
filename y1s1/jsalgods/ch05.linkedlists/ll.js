@@ -52,6 +52,19 @@ function LinkedList() {
 
   }
 
+  this.indexOf = (sought) => {
+    let ndx = -1;
+    let place = 0;
+    let elem = head;
+    do {
+      if(elem.element === sought) {
+        ndx = place;
+        break;
+      }
+    } while(elem = elem.next)
+    return place;
+  }
+
   this.print = () => {
     let e = head;
     do {
