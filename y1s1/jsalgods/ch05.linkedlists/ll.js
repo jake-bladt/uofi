@@ -52,3 +52,6 @@ ll.append('Kitten');
 ll.append('Mother Cat');
 ll.append('Another Kitten');
 ll.print();
+
+ll.removeAt(1);
+ll.print();
