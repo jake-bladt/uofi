@@ -61,6 +61,7 @@ function LinkedList() {
         ndx = place;
         break;
       }
+      place++;
     } while(elem = elem.next)
     return place;
   }
@@ -84,4 +85,5 @@ ll.insertAfter('Aufauf', 0);
 ll.print();
 
 ll.removeAt(1);
+console.log(ll.indexOf('Mother Cat'));
 ll.print();
