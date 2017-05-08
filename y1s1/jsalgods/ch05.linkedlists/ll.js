@@ -36,4 +36,11 @@ function LinkedList() {
     return ret;
   }
 
+  this.print = () => {
+    let e = head;
+    do {
+      console.log(e);
+    } while(e = e.next)
+  }
+
 }
