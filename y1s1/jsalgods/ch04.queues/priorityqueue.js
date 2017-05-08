@@ -7,7 +7,7 @@ function PriorityQueue() {
     this.priority = priority;
   }
 
-  this.enqueue = function(item, priority) {
+  this.enqueue = (item, priority) => {
     let qe = new QueueElement(item, priority);
     let added = false;
 
@@ -21,4 +21,9 @@ function PriorityQueue() {
     if(!added) items.push(qe);
   }
 
+  this.dequeue = () => items.shift();
+  this.print = () => console.log(items.map(i => i.element));
+
 }
+
+
