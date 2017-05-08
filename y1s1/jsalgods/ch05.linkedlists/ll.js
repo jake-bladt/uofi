@@ -11,8 +11,9 @@ function LinkedList() {
   this.size = () => length;
 
   this.append = (elem) => {
-    let node = Node(elem);
-    if(head === null) {
+    let node = new Node(elem);
+    console.log(node);
+    if(head == null) {
       head = node;
     } else {
       last.next = node; 
