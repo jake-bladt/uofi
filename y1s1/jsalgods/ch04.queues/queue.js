@@ -9,7 +9,7 @@ function Queue() {
   this.print = () => console.log(items);
 }
 
-let q = new ();
+let q = new Queue();
 q.enqueue('Manny', 'Moe', 'Jack');
 console.log(q.size());
 console.log(q.dequeue());
