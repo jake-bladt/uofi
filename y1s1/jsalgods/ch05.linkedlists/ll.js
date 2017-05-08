@@ -1,5 +1,5 @@
 function LinkedList() {
-  function Node(elem) => {
+  function Node(elem) {
     this.element = elem;
     this.next = null;
   }
@@ -39,8 +39,14 @@ function LinkedList() {
   this.print = () => {
     let e = head;
     do {
-      console.log(e);
+      console.log(e.element);
     } while(e = e.next)
   }
 
 }
+
+let ll = new LinkedList();
+ll.append('Kitten');
+ll.append('Mother Cat');
+ll.append('Another Kitten');
+ll.print();
