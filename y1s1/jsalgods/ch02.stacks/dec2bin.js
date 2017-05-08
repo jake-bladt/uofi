@@ -22,6 +22,8 @@ function decToBin(decNum) {
     working = Math.floor(working / 2);
   }
 
-
+  return remStack.reduce((agg, elem) => agg + elem, "");
 
 }
+
+console.log(decToBin(51257));
