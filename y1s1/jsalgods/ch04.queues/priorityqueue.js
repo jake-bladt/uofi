@@ -21,7 +21,7 @@ function PriorityQueue() {
     if(!added) items.push(qe);
   }
 
-  this.dequeue = () => items.shift();
+  this.dequeue = () => items.shift().element;
   this.print = () => console.log(items.map(i => i.element));
 
 }
