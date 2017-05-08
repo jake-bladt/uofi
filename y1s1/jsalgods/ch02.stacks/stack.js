@@ -9,3 +9,14 @@ function Stack() {
   this.clear = () => items = [];
   this.print = () => console.log(items);
 }
+
+let s = new Stack();
+console.log(s.isEmpty());
+s.push(1);
+s.push(1);
+s.push(2);
+s.push(3);
+s.push(5);
+
+console.log(s.size());
+console.log(s.pop());
