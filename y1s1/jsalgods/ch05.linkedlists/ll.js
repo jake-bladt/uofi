@@ -41,6 +41,8 @@ function LinkedList() {
       console.log(e.element);
   }
 
+  this.inspect = () => `head: ${head}, last: ${last}, length: ${length}`
+
 }
 
 let ll = new LinkedList();
