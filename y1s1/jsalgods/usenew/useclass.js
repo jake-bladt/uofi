@@ -9,4 +9,5 @@ class Fraction {
   }
 }
 
-
+let f = new Fraction(1.0, 2.0);
+console.log(f.decimalValue());
