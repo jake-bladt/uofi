@@ -73,7 +73,8 @@ function LinkedList() {
     } while(e = e.next)
   }
 
-  this.inspect = () => `head: ${head}, last: ${last}, length: ${length}`
+  this.inspect = () => `head: ${head}, last: ${last}, length: ${length}`;
+  this.isEmpty = () => length === 0;
 
 }
 
