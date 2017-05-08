@@ -26,4 +26,11 @@ function PriorityQueue() {
 
 }
 
+let q = new PriorityQueue();
 
+q.enqueue('Save the world.', 2);
+q.enqueue('Pet kitten.', 1);
+q.enqueue('Get some sleep.', 5);
+
+q.print();
+console.log(q.dequeue());
