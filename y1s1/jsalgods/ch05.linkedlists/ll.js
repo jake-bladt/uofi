@@ -38,15 +38,15 @@ function LinkedList() {
 
   this.print = () => {
     let e = head;
-    do {
       console.log(e.element);
-    } while(e = e.next)
   }
 
 }
 
 let ll = new LinkedList();
 ll.append('Kitten');
-ll.append('Mother Cat');
-ll.append('Another Kitten');
-ll.print();
+console.log(ll.size());
+console.log(ll);
+// ll.append('Mother Cat');
+// ll.append('Another Kitten');
+// ll.print();
