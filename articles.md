@@ -25,6 +25,10 @@
 * (2017-Apr-18) [Harvard's CS50](https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
 * (2017-Apr-17) [The Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp)
 
+## Databases
+
+* (08-May-2017) [Temporal Tables in SQL Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-temporal-tables) - Note: also supported by PostgreSQL.
+
 ## Dev Tools
 
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
