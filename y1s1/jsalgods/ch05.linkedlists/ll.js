@@ -12,7 +12,6 @@ function LinkedList() {
 
   this.append = (elem) => {
     let node = new Node(elem);
-    console.log(node);
     if(head == null) {
       head = node;
     } else {
@@ -39,7 +38,9 @@ function LinkedList() {
 
   this.print = () => {
     let e = head;
+    do {
       console.log(e.element);
+    } while(e = e.next)
   }
 
   this.inspect = () => `head: ${head}, last: ${last}, length: ${length}`
@@ -48,8 +49,6 @@ function LinkedList() {
 
 let ll = new LinkedList();
 ll.append('Kitten');
-console.log(ll.size());
-console.log(ll);
-// ll.append('Mother Cat');
-// ll.append('Another Kitten');
-// ll.print();
+ll.append('Mother Cat');
+ll.append('Another Kitten');
+ll.print();
