@@ -36,6 +36,7 @@
 
 ## Devops
 
+* (2017-May-10) [Too Many Choices: how to pick the right tool to manage your Docker clusters](https://hackernoon.com/too-many-choices-how-to-pick-the-right-tool-to-manage-your-docker-clusters-b5b3061b84b7)
 * (2017-May-04) [Network Traffic Monitoring with Docker](http://engineering.pivotal.io/post/network-traffic-monitoring-with-containers/)
 * (2017-May-01) [The design, implementation and deployment of a system to transparently compress hundreds of petabytes of image files for a file storage service](https://blog.acolyer.org/2017/05/01/the-design-implementation-and-deployment-of-a-system-to-transparently-compress-hundreds-of-petabytes-of-image-files-for-a-file-storage-service/)
 * (2017-Apr-28) [Persistence in Docker](https://thenewstack.io/methods-dealing-container-storage/)
@@ -106,8 +107,8 @@ https://github.com/github/linguist
 
 ## Utilities
 
-* [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
-* [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
+* (2017-May-10) [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
+* (2017-May-01) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
 * (2017-Apr-28) [Iron.io](https://medium.com/iron-io-blog/functions-ui-b9de60e3ddf7) - Serverless services
 * (2017-Apr-28) [FlyImg](http://flyimg.io/) - On-the-fly image resizing
 * (2017-Apr-28) [BugSnag](https://www.bugsnag.com/platforms/javascript)
