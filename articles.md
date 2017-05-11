@@ -105,6 +105,10 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 * (2017-Apr-24) [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
 https://github.com/github/linguist
 
+## Testing
+
+* (2017-May-11) [Progressive Web Metrics](https://hackernoon.com/easy-progressive-web-metrics-9afa5ed857c2) - Measuring in-browser load time.
+
 ## Utilities
 
 * (2017-May-10) [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
