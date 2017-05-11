@@ -1,0 +1,11 @@
+Data For Democracy
+9-May-2017 18:30
+315 Hudson Street @ Galvanize
+
+Partially Derivative is a podcast about data science.
+
+data.world is a website for open source data sets.
+
+politics/weareindivisible
+
+To help nyc-accessibility, wirte a serverless service that listens for MTA outage tweets, parses them, and pushes them to a data store.
