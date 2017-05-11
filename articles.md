@@ -60,6 +60,7 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript
 
+* (2017-May-11) [Getting your head around 'this'](https://hackernoon.com/get-your-head-around-this-73c23653b102)
 * (2017-May-01) [Understanding differences between npm, yarn and pnpm](https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/) 
 * (2017-Apr-28) [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
 * (2017-Apr-28) [Async/Await vs. Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
