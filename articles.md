@@ -96,6 +96,10 @@
 * (2017-Apr-29) [Go Web Examples](https://gowebexamples.github.io/)
 * (2017-Apr-24) [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
 
+## Python
+
+* (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
+
 ## Python Libraries
 
 * (2017-Apr-24) [Boto](https://boto3.readthedocs.io/en/latest/reference/services/elbv2.html) - AWS core Python Library
