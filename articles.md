@@ -51,6 +51,7 @@
 
 ## Hiring
 
+* (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
 * (2017-Apr-27) [The LinkedIn REACH program](https://careers.linkedin.com/reach/AboutReach)
 
 ## Image Processing
