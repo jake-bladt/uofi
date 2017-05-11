@@ -1,3 +1,28 @@
+Reactive New York
+Serverless Services and a deep dive on AWS Lambda
+10-May-2017 18:15
+315 West 36th Street @ WeWork
+
+Presenters were from symphonia.io
+Checkout out blog.symphonia.io
+
+backend-as-a-service (BAAS) vs. functions-as-a-service (FAAS)
+Auth0 vs. Amazon Cognito
+
+PROTIP: With AWS Lambda, you can shell out of a supported scripting language and run just about anything.
+
+PROTIP: AWS X-Ray recently started limited release on AWS lambda.
+
+Investigate AWS step functions.
+
+Using Java env, it's possible to run clojure on lambda.
+
+check out symphoniacloud on github
+
+As an alternative to the big guys of serverless, investigate auth0 webtask.
+
+
+
 Data For Democracy
 9-May-2017 18:30
 315 Hudson Street @ Galvanize
