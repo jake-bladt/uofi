@@ -99,6 +99,7 @@
 
 ## Python
 
+* (2017-May-12) [venv](https://pymotw.com/3/venv/)
 * (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
 
 ## Python Libraries
