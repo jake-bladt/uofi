@@ -107,6 +107,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Python
 
+* (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
 * (2017-May-12) [venv](https://pymotw.com/3/venv/)
 * (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
 
@@ -126,6 +127,7 @@ https://github.com/github/linguist
 
 ## Utilities
 
+* (2017-May-15) [Github Project Management](https://github.com/features#project-management)
 * (2017-May-15) [CA Agile](https://www.ca.com/us/products/ca-agile-central.html)
 * (2017-May-10) [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
 * (2017-May-01) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
@@ -145,6 +147,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-May-15) [Intro to the Web Audio API](https://scrimba.com/casts/cast-2091)
 * (2017-Apr-28) [Fable - an F#=>JavaScript Transpiler](http://fable.io/)
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
 * (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
