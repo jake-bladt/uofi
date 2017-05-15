@@ -137,6 +137,8 @@ https://github.com/github/linguist
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
 
 ## Web Design
+
+* (2017-May-15) [Sakura CSS](https://github.com/oxalorg/sakura)
 * (2017-Apr-28) [An Encyclopedic Approach to Type](http://luc.devroye.org/fonts.html)
 * (2017-Apr-28) [Animista](http://animista.net/)
 * (2017-Apr-28) [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
