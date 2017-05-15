@@ -51,6 +51,8 @@
 
 ## Hiring
 
+* (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
+Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.edu/documents/sample_articles/2002_44_3_4776.pdf)
 * (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
 * (2017-Apr-27) [The LinkedIn REACH program](https://careers.linkedin.com/reach/AboutReach)
 
