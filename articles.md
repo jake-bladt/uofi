@@ -12,6 +12,7 @@
 
 ## Computer Science
 
+* (2017-May-15) [Minsky's Form and Content in Computer Science](http://web.media.mit.edu/~minsky/papers/TuringLecture/TuringLecture.html)
 * (2017-May-01) [The Education of a Programmer](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
 * (2017-May-01) [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 * (2017-May-01) [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
