@@ -84,6 +84,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Linux
 
+* (15-May-2017) [Let's Learn tcpdump](https://jvns.ca/tcpdump-zine.pdf)
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
 * (24-Apr-2017) [Build your own Linux Distro](http://www.wikihow.com/Build-Your-Own-Linux-Distribution)
 
