@@ -12,6 +12,7 @@
 
 ## Computer Science
 
+* (2017-May-15) [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * (2017-May-15) [Space-Efficient Construction of Compressed Indexes in Deterministic Linear Time](https://arxiv.org/abs/1607.04346)
 * (2017-May-15) [Minsky's Form and Content in Computer Science](http://web.media.mit.edu/~minsky/papers/TuringLecture/TuringLecture.html)
 * (2017-May-01) [The Education of a Programmer](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
