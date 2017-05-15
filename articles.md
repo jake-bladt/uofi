@@ -127,6 +127,7 @@ https://github.com/github/linguist
 
 ## Utilities
 
+* (2017-May-15) [Let's Encrypt](https://letsencrypt.org) - free SSH certs.
 * (2017-May-15) [Github Project Management](https://github.com/features#project-management)
 * (2017-May-15) [CA Agile](https://www.ca.com/us/products/ca-agile-central.html)
 * (2017-May-10) [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
