@@ -12,6 +12,7 @@
 
 ## Computer Science
 
+* (2017-May-15) [A Simplified Guide to Sorting Algorithms](https://dev.to/vaidehijoshi/sorting-out-the-basics-behind-sorting-algorithms)
 * (2017-May-15) [Let's Build a Web Server](https://ruslanspivak.com/lsbaws-part1/)
 * (2017-May-15) [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * (2017-May-15) [Space-Efficient Construction of Compressed Indexes in Deterministic Linear Time](https://arxiv.org/abs/1607.04346)
