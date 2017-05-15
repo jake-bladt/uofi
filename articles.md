@@ -67,6 +67,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-May-15) [Symbols in ES6](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
 * (2017-May-11) [Getting your head around 'this'](https://hackernoon.com/get-your-head-around-this-73c23653b102)
 * (2017-May-01) [Understanding differences between npm, yarn and pnpm](https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/) 
 * (2017-Apr-28) [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
