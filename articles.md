@@ -41,6 +41,7 @@
 
 ## Devops
 
+* (2017-May-18) [Using Amazon EFS](https://8thlight.com/blog/sarah-sunday/2017/05/18/a-case-for-amazon-elastic-file-sysem.html)
 * (2017-May-11) [Getting your head around performance](https://hackernoon.com/getting-your-head-around-performance-467d849fc64)
 * (2017-May-10) [Too Many Choices: how to pick the right tool to manage your Docker clusters](https://hackernoon.com/too-many-choices-how-to-pick-the-right-tool-to-manage-your-docker-clusters-b5b3061b84b7)
 * (2017-May-04) [Network Traffic Monitoring with Docker](http://engineering.pivotal.io/post/network-traffic-monitoring-with-containers/)
