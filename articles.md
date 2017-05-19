@@ -56,6 +56,10 @@
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
 * (2017-Apr-3) [Capital One uses balancer features](https://www.youtube.com/watch?v=uFs_EwJr-yc)
 
+## Experimental Languages
+
+* (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
+
 ## Hiring
 
 * (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
@@ -154,6 +158,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-May-19) [GraphQL vs. Rest for API design](https://www.sitepoint.com/rest-2-0-graphql/)
 * (2017-May-15) [Intro to the Web Audio API](https://scrimba.com/casts/cast-2091)
 * (2017-Apr-28) [Fable - an F#=>JavaScript Transpiler](http://fable.io/)
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
