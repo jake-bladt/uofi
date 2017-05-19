@@ -90,6 +90,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript Libraries
 
+* (2017-May-19) [mavo](http://mavo.io)
 * (2017-May-15) [BriteCharts](http://eventbrite.github.io/britecharts/)
 * (2017-Apr-28) [Intro to React Native](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
