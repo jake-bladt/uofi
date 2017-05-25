@@ -118,6 +118,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Python
 
+* (2017-May-25) [Packaging Python](https://packaging.python.org/distributing/)
 * (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
 * (2017-May-12) [venv](https://pymotw.com/3/venv/)
 * (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
