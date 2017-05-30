@@ -122,6 +122,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Python
 
+* (2017-May-30) [The Scrapy Cloud](https://scrapy.org/)
 * (2017-May-25) [Packaging Python](https://packaging.python.org/distributing/)
 * (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
 * (2017-May-12) [venv](https://pymotw.com/3/venv/)
