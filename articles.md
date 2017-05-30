@@ -74,6 +74,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-May-30) [Code a twitterbot fast in node](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
 * (2017-May-19) [Testing & Debugging Node Applications](https://www.sitepoint.com/testing-node-applications/)
 * (2017-May-15) [Symbols in ES6](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
 * (2017-May-11) [Getting your head around 'this'](https://hackernoon.com/get-your-head-around-this-73c23653b102)
