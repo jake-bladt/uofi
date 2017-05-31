@@ -37,6 +37,9 @@ https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209
 Backlog
 =======
 
+Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition
+https://www.safaribooksonline.com/library/view/python-algorithms-mastering/9781484200551/
+
 Effective Python: 59 Specific Ways to Write Better Python
 https://www.safaribooksonline.com/library/view/effective-python-59/9780134034416/
 
