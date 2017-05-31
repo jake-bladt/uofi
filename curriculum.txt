@@ -37,6 +37,9 @@ https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209
 Backlog
 =======
 
+Effective Python: 59 Specific Ways to Write Better Python
+https://www.safaribooksonline.com/library/view/effective-python-59/9780134034416/
+
 Learning Path: Get Started with Natural Language Processing Using Python, Spark, and Scala
 https://www.safaribooksonline.com/library/view/learning-path-get/9781491985854/
 
