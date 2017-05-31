@@ -60,6 +60,7 @@
 
 ## Experimental Languages
 
+* (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
 * (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
 
 ## Hiring
