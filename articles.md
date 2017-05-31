@@ -41,7 +41,8 @@
 
 ## Devops
 
-* (2017-May22) [Https on StackOverflow](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
+* (2017-May-31) [The Power of Scriptable Load Balancers](https://www.oreilly.com/ideas/the-power-of-scriptable-load-balancers)
+* (2017-May-22) [Https on StackOverflow](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 * (2017-May-18) [Building a Serverless Chatbot](https://feedly.com/i/entry/xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15c0e469ed4:130dcb:39596b6)
 * (2017-May-18) [Using Amazon EFS](https://8thlight.com/blog/sarah-sunday/2017/05/18/a-case-for-amazon-elastic-file-sysem.html)
 * (2017-May-11) [Getting your head around performance](https://hackernoon.com/getting-your-head-around-performance-467d849fc64)
