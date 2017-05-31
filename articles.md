@@ -112,6 +112,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Managing
 
+* (31-May-2017) [How to Hire and Build Developers Into Full Spectrum Engineers](http://www.veracode.com/blog/secure-development/how-hire-build-developers-full-spectrum-engineers)
 * (28-Apr-2017) [Burnout](https://qz.com/932813/employee-burnout-is-becoming-a-huge-problem-in-the-american-workforce/)
 * (28-Apr-2017) [Abandoning Fake Deadlines](https://medium.com/garbage-collection/abandoning-fake-deadlines-4d535b9aec3b)
 
