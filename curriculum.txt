@@ -37,6 +37,9 @@ https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209
 Backlog
 =======
 
+Learning Path: Get Started with Natural Language Processing Using Python, Spark, and Scala
+https://www.safaribooksonline.com/library/view/learning-path-get/9781491985854/
+
 Logging and Log Management
 https://www.safaribooksonline.com/library/view/logging-and-log/9781597496353/
 
