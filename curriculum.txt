@@ -37,6 +37,9 @@ https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209
 Backlog
 =======
 
+Programming in Python 3: A Complete Introduction to the Python Language, Second Edition
+https://www.safaribooksonline.com/library/view/programming-in-python/9780321699909/
+
 Python Algorithms: Mastering Basic Algorithms in the Python Language, Second Edition
 https://www.safaribooksonline.com/library/view/python-algorithms-mastering/9781484200551/
 
