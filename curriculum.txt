@@ -37,6 +37,15 @@ https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128
 Backlog
 =======
 
+Learning Functional Data Structures and Algorithms
+https://www.safaribooksonline.com/library/view/learning-functional-data/9781785888731/
+
+Functional Programming in Scala
+https://www.safaribooksonline.com/library/view/functional-programming-in/9781617290657/
+
+Scala Functional Programming
+https://www.safaribooksonline.com/library/view/scala-functional-programming/9781783985845/
+
 Python Game Development
 https://www.safaribooksonline.com/library/view/beginning-python-games/9781484209707/
 
