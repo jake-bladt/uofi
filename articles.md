@@ -12,6 +12,11 @@
 
 ## Computer Science
 
+* (2017-May-15) [A Simplified Guide to Sorting Algorithms](https://dev.to/vaidehijoshi/sorting-out-the-basics-behind-sorting-algorithms)
+* (2017-May-15) [Let's Build a Web Server](https://ruslanspivak.com/lsbaws-part1/)
+* (2017-May-15) [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+* (2017-May-15) [Space-Efficient Construction of Compressed Indexes in Deterministic Linear Time](https://arxiv.org/abs/1607.04346)
+* (2017-May-15) [Minsky's Form and Content in Computer Science](http://web.media.mit.edu/~minsky/papers/TuringLecture/TuringLecture.html)
 * (2017-May-01) [The Education of a Programmer](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
 * (2017-May-01) [Category Theory, Syntactically](http://www.hedonisticlearning.com/posts/category-theory-syntactically.html)
 * (2017-May-01) [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
@@ -36,6 +41,12 @@
 
 ## Devops
 
+* (2017-May-31) [The Power of Scriptable Load Balancers](https://www.oreilly.com/ideas/the-power-of-scriptable-load-balancers)
+* (2017-May-22) [Https on StackOverflow](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
+* (2017-May-18) [Building a Serverless Chatbot](https://feedly.com/i/entry/xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15c0e469ed4:130dcb:39596b6)
+* (2017-May-18) [Using Amazon EFS](https://8thlight.com/blog/sarah-sunday/2017/05/18/a-case-for-amazon-elastic-file-sysem.html)
+* (2017-May-11) [Getting your head around performance](https://hackernoon.com/getting-your-head-around-performance-467d849fc64)
+* (2017-May-10) [Too Many Choices: how to pick the right tool to manage your Docker clusters](https://hackernoon.com/too-many-choices-how-to-pick-the-right-tool-to-manage-your-docker-clusters-b5b3061b84b7)
 * (2017-May-04) [Network Traffic Monitoring with Docker](http://engineering.pivotal.io/post/network-traffic-monitoring-with-containers/)
 * (2017-May-01) [The design, implementation and deployment of a system to transparently compress hundreds of petabytes of image files for a file storage service](https://blog.acolyer.org/2017/05/01/the-design-implementation-and-deployment-of-a-system-to-transparently-compress-hundreds-of-petabytes-of-image-files-for-a-file-storage-service/)
 * (2017-Apr-28) [Persistence in Docker](https://thenewstack.io/methods-dealing-container-storage/)
@@ -45,11 +56,18 @@
 * (2017-Apr-6) [Gitlab](https://about.gitlab.com/)
 * (2017-Apr-5) [DC/OS](https://stackshare.io/dcos) - Data Center Operating System
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
-* (2017-Apr-3) Capital One uses balancer features
-https://www.youtube.com/watch?v=uFs_EwJr-yc
+* (2017-Apr-3) [Capital One uses balancer features](https://www.youtube.com/watch?v=uFs_EwJr-yc)
+
+## Experimental Languages
+
+* (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
+* (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
 
 ## Hiring
 
+* (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
+Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.edu/documents/sample_articles/2002_44_3_4776.pdf)
+* (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
 * (2017-Apr-27) [The LinkedIn REACH program](https://careers.linkedin.com/reach/AboutReach)
 
 ## Image Processing
@@ -58,6 +76,11 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## JavaScript
 
+* (2017-May-30) [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
+* (2017-May-30) [Code a twitterbot fast in node](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+* (2017-May-19) [Testing & Debugging Node Applications](https://www.sitepoint.com/testing-node-applications/)
+* (2017-May-15) [Symbols in ES6](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
+* (2017-May-11) [Getting your head around 'this'](https://hackernoon.com/get-your-head-around-this-73c23653b102)
 * (2017-May-01) [Understanding differences between npm, yarn and pnpm](https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/) 
 * (2017-Apr-28) [DOM Manipulation in VanillaJS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery)
 * (2017-Apr-28) [Async/Await vs. Promises](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
@@ -67,11 +90,15 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 * (2017-Apr-28) [ES6 Maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e)
 * (2017-Apr-28) [JavaScript Decorators](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947)
 * (2017-Apr-28) [JavaScript errors and stack traces in depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
-
 * (2017-Apr-28) [An Introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack)
 
 ## JavaScript Libraries
 
+* (2017-May-30) [WebPack: The Basics](https://hackernoon.com/webpack-the-basics-2712a7ad640b)
+* (2017-May-30) [How to set up a react project without flipping tables](https://8thlight.com/blog/rabea-gleissner/2017/05/26/how-to-set-up-a-react-project.html)
+* (2017-May-22) [hapi](https://hapijs.com/)
+* (2017-May-19) [mavo](http://mavo.io)
+* (2017-May-15) [BriteCharts](http://eventbrite.github.io/britecharts/)
 * (2017-Apr-28) [Intro to React Native](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
 * (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
@@ -79,20 +106,31 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 
 ## Linux
 
+* (15-May-2017) [Let's Learn tcpdump](https://jvns.ca/tcpdump-zine.pdf)
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
 * (24-Apr-2017) [Build your own Linux Distro](http://www.wikihow.com/Build-Your-Own-Linux-Distribution)
 
 ## Managing
 
+* (31-May-2017) [How to Hire and Build Developers Into Full Spectrum Engineers](http://www.veracode.com/blog/secure-development/how-hire-build-developers-full-spectrum-engineers)
 * (28-Apr-2017) [Burnout](https://qz.com/932813/employee-burnout-is-becoming-a-huge-problem-in-the-american-workforce/)
 * (28-Apr-2017) [Abandoning Fake Deadlines](https://medium.com/garbage-collection/abandoning-fake-deadlines-4d535b9aec3b)
 
 ## Programming Languages
 
+* (2017-Jun-02) [ELM](http://elm-lang.org)
 * (2017-Apr-29) [Articulate LISP](http://articulate-lisp.com/)
 * (2017-Apr-29) [Master C++ Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
 * (2017-Apr-29) [Go Web Examples](https://gowebexamples.github.io/)
 * (2017-Apr-24) [Lux](http://www.javaworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html) - Statically-typed LISP.
+
+## Python
+
+* (2017-May-30) [The Scrapy Cloud](https://scrapy.org/)
+* (2017-May-25) [Packaging Python](https://packaging.python.org/distributing/)
+* (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
+* (2017-May-12) [venv](https://pymotw.com/3/venv/)
+* (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
 
 ## Python Libraries
 
@@ -104,9 +142,18 @@ https://www.youtube.com/watch?v=uFs_EwJr-yc
 * (2017-Apr-24) [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
 https://github.com/github/linguist
 
+## Testing
+
+* (2017-May-11) [Progressive Web Metrics](https://hackernoon.com/easy-progressive-web-metrics-9afa5ed857c2) - Measuring in-browser load time.
+
 ## Utilities
 
 * (2017-Jun-03) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
+* (2017-May-15) [Let's Encrypt](https://letsencrypt.org) - free SSH certs.
+* (2017-May-15) [Github Project Management](https://github.com/features#project-management)
+* (2017-May-15) [CA Agile](https://www.ca.com/us/products/ca-agile-central.html)
+* (2017-May-10) [websocketd](https://feedly.com/i/entry/uswlDk2a4/wb1Df2X47yFitqMV9uTT1fCMjbL4FAwVY=_15bf34db74a:3b15447:31944e30)
+* (2017-May-01) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
 * (2017-Apr-28) [Iron.io](https://medium.com/iron-io-blog/functions-ui-b9de60e3ddf7) - Serverless services
 * (2017-Apr-28) [FlyImg](http://flyimg.io/) - On-the-fly image resizing
 * (2017-Apr-28) [BugSnag](https://www.bugsnag.com/platforms/javascript)
@@ -115,12 +162,16 @@ https://github.com/github/linguist
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
 
 ## Web Design
+
+* (2017-May-15) [Sakura CSS](https://github.com/oxalorg/sakura)
 * (2017-Apr-28) [An Encyclopedic Approach to Type](http://luc.devroye.org/fonts.html)
 * (2017-Apr-28) [Animista](http://animista.net/)
 * (2017-Apr-28) [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
 
 ## Uncategorized
 
+* (2017-May-19) [GraphQL vs. Rest for API design](https://www.sitepoint.com/rest-2-0-graphql/)
+* (2017-May-15) [Intro to the Web Audio API](https://scrimba.com/casts/cast-2091)
 * (2017-Apr-28) [Fable - an F#=>JavaScript Transpiler](http://fable.io/)
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
 * (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
