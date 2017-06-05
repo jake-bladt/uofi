@@ -150,7 +150,7 @@ https://github.com/github/linguist
 
 ## Utilities
 
-* (2017-May-17) [Backendless](https://backendless.com)
+* (2017-Jun-03) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
 * (2017-May-15) [Let's Encrypt](https://letsencrypt.org) - free SSH certs.
 * (2017-May-15) [Github Project Management](https://github.com/features#project-management)
 * (2017-May-15) [CA Agile](https://www.ca.com/us/products/ca-agile-central.html)
