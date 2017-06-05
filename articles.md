@@ -76,6 +76,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-Jun-05) [The Modern JavaScript Tutorial](http://javascript.info)
 * (2017-May-30) [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
 * (2017-May-30) [Code a twitterbot fast in node](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
 * (2017-May-19) [Testing & Debugging Node Applications](https://www.sitepoint.com/testing-node-applications/)
