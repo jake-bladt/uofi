@@ -41,6 +41,7 @@
 
 ## Devops
 
+* (2017-May-08) [A Script for Deploying Docker-Hosted Applications to AWS ECS](https://spin.atomicobject.com/2017/06/06/ecs-deployment-script/)
 * (2017-May-31) [The Power of Scriptable Load Balancers](https://www.oreilly.com/ideas/the-power-of-scriptable-load-balancers)
 * (2017-May-22) [Https on StackOverflow](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 * (2017-May-18) [Building a Serverless Chatbot](https://feedly.com/i/entry/xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15c0e469ed4:130dcb:39596b6)
