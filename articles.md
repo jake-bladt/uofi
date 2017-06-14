@@ -41,6 +41,7 @@
 
 ## Devops
 
+* (2017-May-08) [A Script for Deploying Docker-Hosted Applications to AWS ECS](https://spin.atomicobject.com/2017/06/06/ecs-deployment-script/)
 * (2017-May-31) [The Power of Scriptable Load Balancers](https://www.oreilly.com/ideas/the-power-of-scriptable-load-balancers)
 * (2017-May-22) [Https on StackOverflow](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 * (2017-May-18) [Building a Serverless Chatbot](https://feedly.com/i/entry/xSjdJfPCkNisMpBgOt+tuQbeFffex9D91WxfhFeMbbc=_15c0e469ed4:130dcb:39596b6)
@@ -77,6 +78,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 ## JavaScript
 
 * (2017-Jun-13) [Build Your own Simplified AngularJS in 200 Lines of JavaScript](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+* (2017-Jun-05) [The Modern JavaScript Tutorial](http://javascript.info)
 * (2017-May-30) [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
 * (2017-May-30) [Code a twitterbot fast in node](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
 * (2017-May-19) [Testing & Debugging Node Applications](https://www.sitepoint.com/testing-node-applications/)
@@ -127,6 +129,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Python
 
+* (2017-Jun-05) [Learn Python the Hard Way](https://learnpythonthehardway.org/book) 
 * (2017-May-30) [The Scrapy Cloud](https://scrapy.org/)
 * (2017-May-25) [Packaging Python](https://packaging.python.org/distributing/)
 * (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
