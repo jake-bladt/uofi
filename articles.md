@@ -12,6 +12,7 @@
 
 ## Computer Science
 
+* (2017-Jun-14) [The Four Fours Problem](http://www.gigamonkeys.com/trees/)
 * (2017-May-15) [A Simplified Guide to Sorting Algorithms](https://dev.to/vaidehijoshi/sorting-out-the-basics-behind-sorting-algorithms)
 * (2017-May-15) [Let's Build a Web Server](https://ruslanspivak.com/lsbaws-part1/)
 * (2017-May-15) [Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
