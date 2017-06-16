@@ -179,6 +179,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Jun-16) [Google App Scripts](https://developers.google.com/apps-script/)
 * (2017-Jun-14) [Bork - Assertion DSL for bash](https://github.com/mattly/bork)
 * (2017-May-19) [GraphQL vs. Rest for API design](https://www.sitepoint.com/rest-2-0-graphql/)
 * (2017-May-15) [Intro to the Web Audio API](https://scrimba.com/casts/cast-2091)
