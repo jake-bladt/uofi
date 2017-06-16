@@ -42,6 +42,7 @@
 
 ## Devops
 
+* (2017-Jun-16) [Gray Failure in Cloud-Scaled Systems](https://blog.acolyer.org/2017/06/15/gray-failure-the-achilles-heel-of-cloud-scale-systems/)
 * (2017-Jun-14) [Dapper](https://research.google.com/pubs/pub36356.html) - the basis for Zipkin / OpenZipkin.
 * (2017-May-08) [A Script for Deploying Docker-Hosted Applications to AWS ECS](https://spin.atomicobject.com/2017/06/06/ecs-deployment-script/)
 * (2017-May-31) [The Power of Scriptable Load Balancers](https://www.oreilly.com/ideas/the-power-of-scriptable-load-balancers)
