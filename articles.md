@@ -151,6 +151,7 @@ https://github.com/github/linguist
 
 ## Testing
 
+* (2017-Jun-16) [Testing FizzBuzz in Rust](http://www.scriptingforsport.com/playing-with-tdd-fizzbuzz-in-rust/)
 * (2017-May-11) [Progressive Web Metrics](https://hackernoon.com/easy-progressive-web-metrics-9afa5ed857c2) - Measuring in-browser load time.
 
 ## Utilities
