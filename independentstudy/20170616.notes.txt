@@ -1,1 +1,5 @@
 This weekend's question: How do I write a python application so that it can be deployed and run from a github repo?
+
+References: pip, requirements.txt
+
+How does Heroku do it?
