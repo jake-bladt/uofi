@@ -1,2 +1,1 @@
-20170616.notes.txt
-
+This weekend's question: How do I write a python application so that it can be deployed and run from a github repo?
