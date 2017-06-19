@@ -100,6 +100,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript Libraries
 
+* (2017-Jun-19) [Build a Cross Platform Command Line Executable in Node.js](https://dev.to/anaptfox/build-a-cross-platform-command-line-executable-innodejs)
 * (2017-May-30) [WebPack: The Basics](https://hackernoon.com/webpack-the-basics-2712a7ad640b)
 * (2017-May-30) [How to set up a react project without flipping tables](https://8thlight.com/blog/rabea-gleissner/2017/05/26/how-to-set-up-a-react-project.html)
 * (2017-May-22) [hapi](https://hapijs.com/)
