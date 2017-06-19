@@ -151,6 +151,10 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-Apr-24) [Linguist](https://github.com/github/linguist) - Github’s gem for counting language in a repo
 https://github.com/github/linguist
 
+## Serverless
+
+* (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
+
 ## Testing
 
 * (2017-Jun-16) [Testing FizzBuzz in Rust](http://www.scriptingforsport.com/playing-with-tdd-fizzbuzz-in-rust/)
