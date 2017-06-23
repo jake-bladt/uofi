@@ -2,6 +2,7 @@
 
 ## Artificial Intelligence
 
+* (2017-Jun-23) [Sentiment Analysis](https://www.toptal.com/java/email-sentiment-analysis-bot)
 * (2017-May-05) [A Few Useful Things to Know about Machine Learning](https://blog.acolyer.org/2014/10/29/a-few-useful-things-to-know-about-machine-learning/)
 * (2017-May-04) [Machine Learning for Developers](http://developer.telerik.com/topics/machine-learning/machine-learning-developers/) 
 * (2017-May-03) [Reinforcement Learning](https://dev.to/amreis/a-taste-of-reinforcement-learning)
