@@ -187,6 +187,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Jun-23) [Clojure with Visual Studio Code](https://spin.atomicobject.com/2017/06/22/clojure-development-with-visual-studio-code/)
 * (2017-Jun-19) [BaaS Providers](https://hackernoon.com/5-baas-tools-that-can-halve-development-time-d292e8f287da)
 * (2017-Jun-16) [Google App Scripts](https://developers.google.com/apps-script/)
 * (2017-Jun-14) [Bork - Assertion DSL for bash](https://github.com/mattly/bork)
