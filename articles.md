@@ -13,6 +13,7 @@
 
 ## Computer Science
 
+* (2017-Jun-23) [Axe-Grinders (aka Restricted Boltzmann Machines)](https://msdn.microsoft.com/en-us/magazine/mt809120)
 * (2017-Jun-23) [A Definition of Pure Functions](http://alvinalexander.com/scala/fp-book/definition-of-pure-function)
 * (2017-Jun-14) [The Four Fours Problem](http://www.gigamonkeys.com/trees/)
 * (2017-May-15) [A Simplified Guide to Sorting Algorithms](https://dev.to/vaidehijoshi/sorting-out-the-basics-behind-sorting-algorithms)
