@@ -45,6 +45,7 @@
 
 ## Devops
 
+* (2017-Jun-23) [Load-Balancing Algorithms](http://liblb.com/study.html)
 * (2017-Jun-19) [Horcrux](https://arxiv.org/pdf/1706.05085.pdf)
 * (2017-Jun-16) [Gray Failure in Cloud-Scaled Systems](https://blog.acolyer.org/2017/06/15/gray-failure-the-achilles-heel-of-cloud-scale-systems/)
 * (2017-Jun-14) [Dapper](https://research.google.com/pubs/pub36356.html) - the basis for Zipkin / OpenZipkin.
