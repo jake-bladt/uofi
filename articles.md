@@ -181,6 +181,10 @@ https://github.com/github/linguist
 * (2017-Apr-12) [Upspin](https://upspin.io) - Distributed file system
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
 
+## Web Development
+
+* (2017-Jun-24) [General Web Dev Tools](http://www.catonmat.net/blog/225-programmer-tools/)
+
 ## Web Design
 
 * (2017-May-15) [Sakura CSS](https://github.com/oxalorg/sakura)
