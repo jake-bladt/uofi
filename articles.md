@@ -67,8 +67,9 @@
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
 * (2017-Apr-3) [Capital One uses balancer features](https://www.youtube.com/watch?v=uFs_EwJr-yc)
 
-## Experimental Languages
+## Experimental
 
+* (2017-Jun-29) [Writing AWS Lambda Functions in Clojure](https://aws.amazon.com/blogs/compute/clojure/)
 * (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
 * (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
 
