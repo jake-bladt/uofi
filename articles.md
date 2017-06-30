@@ -87,6 +87,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-Jun-30) [JavaScript Tools](https://hackernoon.com/the-ultimate-list-of-javascript-tools-e0a5351b98e3)
 * (2017-Jun-13) [Build Your own Simplified AngularJS in 200 Lines of JavaScript](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * (2017-Jun-05) [The Modern JavaScript Tutorial](http://javascript.info)
 * (2017-May-30) [Execution context, Scope chain and JavaScript internals](https://hackernoon.com/execution-context-in-javascript-319dd72e8e2c)
