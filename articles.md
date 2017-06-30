@@ -170,6 +170,7 @@ https://github.com/github/linguist
 
 ## Utilities
 
+* (2017-June-30) [Twitter Heron vs. Apache Storm](https://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
 * (2017-Jun-03) [Corfu](https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/) - a distributed, shared log.
 * (2017-May-15) [Let's Encrypt](https://letsencrypt.org) - free SSH certs.
 * (2017-May-15) [Github Project Management](https://github.com/features#project-management)
