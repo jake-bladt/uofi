@@ -11,6 +11,10 @@
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 
+## Baseball
+
+* (2017-Jul-5) [A Relaxing Technique](http://blog.sigfpe.com/2017/06/a-relaxation-technique.html)
+
 ## Computer Science
 
 * (2017-Jun-25) [Good-Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
