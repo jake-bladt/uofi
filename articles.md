@@ -37,6 +37,7 @@
 
 ## Databases
 
+* (05-Jul-2017) [More SQL on Spanner](https://blog.acolyer.org/2017/07/03/spanner-becoming-a-sql-system/)
 * (08-May-2017) [Temporal Tables in SQL Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-temporal-tables) - Note: also supported by PostgreSQL.
 
 ## Dev Tools
