@@ -80,6 +80,10 @@
 * (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
 * (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
 
+## Game Theory
+
+* (2017-Jul-6) [Collective action and the evolution of social norm internalization](http://www.pnas.org/content/114/23/6068.abstract?sid=bcc20cfa-8275-478a-b906-84078464f2cb)
+
 ## Hiring
 
 * (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
