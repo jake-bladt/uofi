@@ -164,6 +164,10 @@ https://github.com/github/linguist
 
 * (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
 
+## Simulation
+
+* (2017-Jul-4) [Answering Historical What-if Queries with Provenance, Reenactment, and Symbolic Execution](https://www.usenix.org/conference/tapp17/workshop-program/presentation/arab)
+
 ## Testing
 
 * (2017-Jun-16) [Testing FizzBuzz in Rust](http://www.scriptingforsport.com/playing-with-tdd-fizzbuzz-in-rust/)
