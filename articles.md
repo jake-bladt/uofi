@@ -98,6 +98,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-Jul-07) [Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 * (2017-Jun-30) [JavaScript Tools](https://hackernoon.com/the-ultimate-list-of-javascript-tools-e0a5351b98e3)
 * (2017-Jun-13) [Build Your own Simplified AngularJS in 200 Lines of JavaScript](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * (2017-Jun-05) [The Modern JavaScript Tutorial](http://javascript.info)
