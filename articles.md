@@ -90,6 +90,7 @@
 
 ## Hiring
 
+* (2017-Jul-12) [Developer Hyperproductivity](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html)
 * (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
 Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.edu/documents/sample_articles/2002_44_3_4776.pdf)
 * (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
