@@ -53,6 +53,8 @@
 
 ## Devops
 
+* (2017-Jul-12) [The 15-Point DevOps Checklist](https://medium.com/@eon01/the-15-point-devops-check-list-8cd2afb4a448)
+* (2017-Jul-12) [Stuff DevOps People Know](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 * (2017-Jun-23) [Load-Balancing Algorithms](http://liblb.com/study.html)
 * (2017-Jun-19) [Horcrux](https://arxiv.org/pdf/1706.05085.pdf)
 * (2017-Jun-16) [Gray Failure in Cloud-Scaled Systems](https://blog.acolyer.org/2017/06/15/gray-failure-the-achilles-heel-of-cloud-scale-systems/)
