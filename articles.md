@@ -54,6 +54,7 @@
 
 ## Devops
 
+* (2017-Jul-17) [The Serverless Framework](https://serverless.com)
 * (2017-Jul-17) [Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of Magnitude](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd)
 * (2017-Jul-12) [The 15-Point DevOps Checklist](https://medium.com/@eon01/the-15-point-devops-check-list-8cd2afb4a448)
 * (2017-Jul-12) [Stuff DevOps People Know](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
