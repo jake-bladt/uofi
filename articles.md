@@ -50,6 +50,7 @@
 
 ## Dev Tools
 
+* (2017-Jul-21) [Bazel](https://bazel.build)
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
 
 ## Devops
