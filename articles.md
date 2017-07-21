@@ -158,6 +158,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Programming Languages
 
+* (2017-Jul-21) [Go at Dropbox](https://about.sourcegraph.com/go/go-reliability-and-durability-at-dropbox-tammy-butow)
 * (2017-Jun-02) [ELM](http://elm-lang.org)
 * (2017-Apr-29) [Articulate LISP](http://articulate-lisp.com/)
 * (2017-Apr-29) [Master C++ Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
