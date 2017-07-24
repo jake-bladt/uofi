@@ -2,6 +2,7 @@
 
 ## Artificial Intelligence
 
+* (2017-Jul-24) [Counterfactual Regret Minimisation and Poker](https://hackernoon.com/artificial-intelligence-poker-and-regret-part-1-36c78d955720)
 * (2017-Jul-6) [Cat Generator](https://ajolicoeur.wordpress.com/cats/)
 * (2017-Jun-23) [Sentiment Analysis](https://www.toptal.com/java/email-sentiment-analysis-bot)
 * (2017-May-05) [A Few Useful Things to Know about Machine Learning](https://blog.acolyer.org/2014/10/29/a-few-useful-things-to-know-about-machine-learning/)
