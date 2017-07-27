@@ -142,6 +142,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Linux
 
+* (27-Jul-2017) [Linux From Scratch LiveCD](https://sourceforge.net/projects/lfs-livecd/)
 * (16-Jun-2017) [Logging on Linux](https://unix.stackexchange.com/questions/205883/understand-logging-in-linux/294206)
 * (15-May-2017) [Let's Learn tcpdump](https://jvns.ca/tcpdump-zine.pdf)
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
