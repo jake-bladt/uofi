@@ -2,6 +2,8 @@
 
 ## Artificial Intelligence
 
+* (2017-Jul-24) [Counterfactual Regret Minimisation and Poker](https://hackernoon.com/artificial-intelligence-poker-and-regret-part-1-36c78d955720)
+* (2017-Jul-6) [Cat Generator](https://ajolicoeur.wordpress.com/cats/)
 * (2017-Jun-23) [Sentiment Analysis](https://www.toptal.com/java/email-sentiment-analysis-bot)
 * (2017-May-05) [A Few Useful Things to Know about Machine Learning](https://blog.acolyer.org/2014/10/29/a-few-useful-things-to-know-about-machine-learning/)
 * (2017-May-04) [Machine Learning for Developers](http://developer.telerik.com/topics/machine-learning/machine-learning-developers/) 
@@ -11,10 +13,16 @@
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 
+## Baseball
+
+* (2017-Jul-5) [A Relaxing Technique](http://blog.sigfpe.com/2017/06/a-relaxation-technique.html)
+* (2017-Jun-23) [Axe-Grinders (aka Restricted Boltzmann Machines)](https://msdn.microsoft.com/en-us/magazine/mt809120)
+
 ## Computer Science
 
+* (2017-Jul-12) [100 Days of Algorithms](https://medium.com/100-days-of-algorithms)
+* (2017-Jul-5) [Undefined Behaviors](https://blog.regehr.org/archives/1520)
 * (2017-Jun-25) [Good-Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
-* (2017-Jun-23) [Axe-Grinders (aka Restricted Boltzmann Machines)](https://msdn.microsoft.com/en-us/magazine/mt809120)
 * (2017-Jun-23) [A Definition of Pure Functions](http://alvinalexander.com/scala/fp-book/definition-of-pure-function)
 * (2017-Jun-14) [The Four Fours Problem](http://www.gigamonkeys.com/trees/)
 * (2017-May-15) [A Simplified Guide to Sorting Algorithms](https://dev.to/vaidehijoshi/sorting-out-the-basics-behind-sorting-algorithms)
@@ -37,15 +45,21 @@
 
 ## Databases
 
+* (05-Jul-2017) [More SQL on Spanner](https://blog.acolyer.org/2017/07/03/spanner-becoming-a-sql-system/)
 * (08-May-2017) [Temporal Tables in SQL Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-temporal-tables) - Note: also supported by PostgreSQL.
+* (2017-Apr-24) [Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - Twitter's multi-tenant distributed database for large-scale operations.
 
 ## Dev Tools
 
+* (2017-Jul-21) [Bazel](https://bazel.build)
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
-* (2017-Apr-24) [Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - Twitter's multi-tenant distributed database for large-scale operations.
 
 ## Devops
 
+* (2017-Jul-17) [The Serverless Framework](https://serverless.com)
+* (2017-Jul-17) [Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of Magnitude](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd)
+* (2017-Jul-12) [The 15-Point DevOps Checklist](https://medium.com/@eon01/the-15-point-devops-check-list-8cd2afb4a448)
+* (2017-Jul-12) [Stuff DevOps People Know](https://hackernoon.com/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 * (2017-Jun-23) [Load-Balancing Algorithms](http://liblb.com/study.html)
 * (2017-Jun-19) [Horcrux](https://arxiv.org/pdf/1706.05085.pdf)
 * (2017-Jun-16) [Gray Failure in Cloud-Scaled Systems](https://blog.acolyer.org/2017/06/15/gray-failure-the-achilles-heel-of-cloud-scale-systems/)
@@ -74,8 +88,13 @@
 * (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
 * (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
 
+## Game Theory
+
+* (2017-Jul-6) [Collective action and the evolution of social norm internalization](http://www.pnas.org/content/114/23/6068.abstract?sid=bcc20cfa-8275-478a-b906-84078464f2cb)
+
 ## Hiring
 
+* (2017-Jul-12) [Developer Hyperproductivity](http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html)
 * (2017-May-15) [Organizational Blueprints for Success in High-Tech Start-Ups:
 Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.edu/documents/sample_articles/2002_44_3_4776.pdf)
 * (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
@@ -87,6 +106,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript
 
+* (2017-Jul-07) [Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 * (2017-Jun-30) [JavaScript Tools](https://hackernoon.com/the-ultimate-list-of-javascript-tools-e0a5351b98e3)
 * (2017-Jun-13) [Build Your own Simplified AngularJS in 200 Lines of JavaScript](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * (2017-Jun-05) [The Modern JavaScript Tutorial](http://javascript.info)
@@ -122,6 +142,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Linux
 
+* (27-Jul-2017) [Linux From Scratch LiveCD](https://sourceforge.net/projects/lfs-livecd/)
 * (16-Jun-2017) [Logging on Linux](https://unix.stackexchange.com/questions/205883/understand-logging-in-linux/294206)
 * (15-May-2017) [Let's Learn tcpdump](https://jvns.ca/tcpdump-zine.pdf)
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
@@ -133,8 +154,13 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (28-Apr-2017) [Burnout](https://qz.com/932813/employee-burnout-is-becoming-a-huge-problem-in-the-american-workforce/)
 * (28-Apr-2017) [Abandoning Fake Deadlines](https://medium.com/garbage-collection/abandoning-fake-deadlines-4d535b9aec3b)
 
+## Maths
+
+* [Overbooking and Probability](https://plus.maths.org/content/overbooking)
+
 ## Programming Languages
 
+* (2017-Jul-21) [Go at Dropbox](https://about.sourcegraph.com/go/go-reliability-and-durability-at-dropbox-tammy-butow)
 * (2017-Jun-02) [ELM](http://elm-lang.org)
 * (2017-Apr-29) [Articulate LISP](http://articulate-lisp.com/)
 * (2017-Apr-29) [Master C++ Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/)
@@ -202,6 +228,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
 * (2017-Jun-30) [Stanford's Game Definition Language](http://games.stanford.edu/games/gdl.html)
 * (2017-Jun-30) [The Architecture of StackOverflow](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
 * (2017-Jun-23) [Clojure with Visual Studio Code](https://spin.atomicobject.com/2017/06/22/clojure-development-with-visual-studio-code/)

@@ -37,6 +37,9 @@ https://www.safaribooksonline.com/library/view/fundamentals-of-technical/9780128
 Backlog
 =======
 
+The Rust Book
+https://doc.rust-lang.org/book/
+
 Learning Functional Data Structures and Algorithms
 https://www.safaribooksonline.com/library/view/learning-functional-data/9781785888731/
 
