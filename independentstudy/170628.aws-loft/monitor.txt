@@ -1,0 +1,27 @@
+Amazon.com was first written in Perl
+
+Stack tracing and monitoring
+
+No agents. No heartbeats. Lack of data != error.
+No noise.
+
+Lambda supports put-metric-data
+
+API Gateway has built-in ERROR / INFO logging.
+
+Lambda logs from STD::OUT.
+
+Logs export to S3 or ElasticCache
+
+To trace requests across services, use Amazon X-Ray
+X-Ray is not an APM service
+
+% Trace < 100%
+
+XRay APIs have limited language support (JavaScript, Java.) Rackspace supports Python with Fleece.
+
+XRay has no active API Gateway support currently.
+
+Running it is a tradeoff.
+
+XRay agent runs anywhere.

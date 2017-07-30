@@ -1,0 +1,19 @@
+No provisioning or managing
+Scale with usage
+No pay for idle time
+Fault tolerance by definition
+
+DynamoDB is now serverless
+API Gateway handles auth(ent/or)
+
+https://aws.amazon.com/blogs/compute/clojure/
+
+DynamoDB->Kineses->Lambda ~= Firebase
+Lambda replaces cron
+
+SAM Application Model uses SAM Template
+SAM templates can replace the need to deploy via zip.
+
+API gateway can be backed by EB, EC2, etc.
+
+https://aws.amazon.com/serverless/
