@@ -3,3 +3,7 @@ Roselyn & You
 http://www.github.com/jwooley/roselynAndYou
 http://jwooley.github.io
 
+using static
+?. = null propogation
+Azure functions
+Roselyn requires Visual Studio extension development be installed
