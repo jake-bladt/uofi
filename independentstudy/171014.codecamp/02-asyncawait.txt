@@ -1,3 +1,11 @@
 Understanding async/await in JavaScript
 
+http://bit.ly/original-nodejs
+http://bit.ly/original-nodejs-slides
+http://bit.ly/threads-are-hard
+http://bit.ly/eventloop-explained
+
+run-to-completion
+HTML5 fetch API
+
 
