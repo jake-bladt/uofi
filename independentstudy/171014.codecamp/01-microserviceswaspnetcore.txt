@@ -2,3 +2,7 @@ Building and deploying microservices with ASP.net core
 
 Proper microservices don't share their underlying datastore among themselves.
 
+Spark microservice framework
+http://sparkjava.com/
+
+
