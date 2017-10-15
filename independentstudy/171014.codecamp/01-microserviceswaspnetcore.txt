@@ -9,4 +9,8 @@ Logging is a good first microservice.
 
 Nancy + OWIN have good support for microsorvice testing.
 
+API gateway for crosstalk
 
+Mulesoft?
+
+Kestrel - web server for .net core
