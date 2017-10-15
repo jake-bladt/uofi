@@ -1,0 +1,5 @@
+One build for all
+
+Blazer - MSIL on WebAssembly
+.net Standard = API first
+msbuild vs. dotnetbuild
