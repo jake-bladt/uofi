@@ -104,6 +104,10 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 * (2017-Apr-13) [Fundamentals of Image Processing](https://www.codeproject.com/Articles/781213/Fundamentals-of-Image-Processing-behind-the-scenes)
 
+## JACS Stack
+
+* (2017-Oct-22) [Getting started with SignalR and MVC](https://docs.microsoft.com/en-us/aspnet/signalr/overview/getting-started/tutorial-getting-started-with-signalr-and-mvc)
+
 ## JavaScript
 
 * (2017-Jul-07) [Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
