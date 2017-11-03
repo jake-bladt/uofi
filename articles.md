@@ -232,6 +232,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Nov-3) [OSCON 2017](https://www.safaribooksonline.com/library/view/oscon-2017-/9781491976227/)
 * (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
 * (2017-Jun-30) [Stanford's Game Definition Language](http://games.stanford.edu/games/gdl.html)
 * (2017-Jun-30) [The Architecture of StackOverflow](https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/)
