@@ -84,7 +84,7 @@
 
 ## Distributed Ledgers
 
-
+* (2017-Nov-6) [Hashgraph](https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/)
 * (2017-Nov-6) [Hyperledger](https://www.hyperledger.org/) - Blockchain for Business
 
 ## Experimental
