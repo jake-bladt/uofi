@@ -82,6 +82,11 @@
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
 * (2017-Apr-3) [Capital One uses balancer features](https://www.youtube.com/watch?v=uFs_EwJr-yc)
 
+## Distributed Ledgers
+
+
+* (2017-Nov-6) [Hyperledger](https://www.hyperledger.org/) - Blockchain for Business
+
 ## Experimental
 
 * (2017-Jun-29) [Writing AWS Lambda Functions in Clojure](https://aws.amazon.com/blogs/compute/clojure/)
@@ -233,7 +238,6 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
-* (2017-Nov-6) [Hyperledger](https://www.hyperledger.org/) - Blockchain for Business
 * (2017-Nov-3) [OSCON 2017](https://www.safaribooksonline.com/library/view/oscon-2017-/9781491976227/)
 * (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
 * (2017-Jun-30) [Stanford's Game Definition Language](http://games.stanford.edu/games/gdl.html)
