@@ -233,6 +233,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (2017-Nov-6) [Hyperledger](https://www.hyperledger.org/) - Blockchain for Business
 * (2017-Nov-3) [OSCON 2017](https://www.safaribooksonline.com/library/view/oscon-2017-/9781491976227/)
 * (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
 * (2017-Jun-30) [Stanford's Game Definition Language](http://games.stanford.edu/games/gdl.html)
