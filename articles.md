@@ -2,6 +2,7 @@
 
 ## Artificial Intelligence
 
+* (2017-Nov-10) [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
 * (2017-Jul-24) [Counterfactual Regret Minimisation and Poker](https://hackernoon.com/artificial-intelligence-poker-and-regret-part-1-36c78d955720)
 * (2017-Jul-6) [Cat Generator](https://ajolicoeur.wordpress.com/cats/)
 * (2017-Jun-23) [Sentiment Analysis](https://www.toptal.com/java/email-sentiment-analysis-bot)
