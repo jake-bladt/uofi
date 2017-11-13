@@ -46,6 +46,7 @@
 
 ## Databases
 
+* (13-Nov-2017) [How should you build a high-performance column store for the 2020s?](https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/)
 * (05-Jul-2017) [More SQL on Spanner](https://blog.acolyer.org/2017/07/03/spanner-becoming-a-sql-system/)
 * (08-May-2017) [Temporal Tables in SQL Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-temporal-tables) - Note: also supported by PostgreSQL.
 * (2017-Apr-24) [Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - Twitter's multi-tenant distributed database for large-scale operations.
