@@ -139,6 +139,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## JavaScript Libraries
 
+* (2017-Nov-15) [GatsbyJS](https://www.gatsbyjs.org/) - Blazing fast static site generator for React
 * (2017-Nov-3) [Frappe Charts](https://frappe.github.io/charts/) 
 * (2017-Jun-20) [Build a mini-Netflix with React](https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes)
 * (2017-Jun-19) [Build a Cross Platform Command Line Executable in Node.js](https://dev.to/anaptfox/build-a-cross-platform-command-line-executable-innodejs)
