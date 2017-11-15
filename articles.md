@@ -1,5 +1,9 @@
 # Further Reading
 
+## .NET
+
+* (2017-Nov-15) [.NET on the Google Cloud](https://cloud.google.com/dotnet/docs/getting-started/hello-world)
+
 ## Artificial Intelligence
 
 * (2017-Nov-10) [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
@@ -46,6 +50,7 @@
 
 ## Databases
 
+* (15-Nov-2017) [8 Steps to Effective SQL Server Monitoring](https://www.red-gate.com/simple-talk/sql/database-administration/eight-steps-to-effective-sql-server-monitoring/)
 * (13-Nov-2017) [How should you build a high-performance column store for the 2020s?](https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/)
 * (05-Jul-2017) [More SQL on Spanner](https://blog.acolyer.org/2017/07/03/spanner-becoming-a-sql-system/)
 * (08-May-2017) [Temporal Tables in SQL Azure](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-temporal-tables) - Note: also supported by PostgreSQL.
