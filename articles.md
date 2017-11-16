@@ -18,6 +18,9 @@
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 
+## Azure
+* (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
+
 ## Baseball
 
 * (2017-Jul-5) [A Relaxing Technique](http://blog.sigfpe.com/2017/06/a-relaxation-technique.html)
