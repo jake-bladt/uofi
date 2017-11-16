@@ -66,6 +66,7 @@
 
 ## Devops
 
+* (2017-Nov-16) [Kubernetes in Visual Studio](https://www.hanselman.com/blog/AnnouncingVisualStudioAndKubernetesVisualStudioConnectedEnvironment.aspx)
 * (2017-Nov-16) [Creating a Minimal ASP.NET Core Windows Container](https://blogs.msdn.microsoft.com/webdev/2017/11/09/creating-a-minimal-asp-net-core-windows-container/)
 * (2017-Jul-17) [The Serverless Framework](https://serverless.com)
 * (2017-Jul-17) [Serving 39 Million Requests for $370/Month, or: How We Reduced Our Hosting Costs by Two Orders of Magnitude](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd)
@@ -210,6 +211,9 @@ https://github.com/github/linguist
 
 ## Serverless
 
+* (2017-Nov-15) [Azure Functions in Kotlin](https://blog.maartenballiauw.be/post/2017/11/16/running-kotlin-in-azure-functions.html)
+* (2017-Nov-15) [Improvements to Azure Functions in Visual Studio](https://blogs.msdn.microsoft.com/webdev/2017/11/15/improvements-to-azure-functions-in-visual-studio/)
+* (2017-Nov-15) [Deploy Azure Functions with Visual Studio Code](https://www.michaelcrump.net/azure-tips-and-tricks52/)
 * (2017-Nov-16) [Java in Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Java-in-Azure-Functions)
 * (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
 
