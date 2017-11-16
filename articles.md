@@ -50,6 +50,7 @@
 
 ## Databases
 
+* (16-Nov-2017) [datetime2](https://stackoverflow.com/questions/1334143/datetime2-vs-datetime-in-sql-server)
 * (16-Nov-2017) [Documenting SQL Server with PowerShell](https://www.red-gate.com/simple-talk/sql/database-administration/documenting-sql-server-with-powershell/)
 * (15-Nov-2017) [8 Steps to Effective SQL Server Monitoring](https://www.red-gate.com/simple-talk/sql/database-administration/eight-steps-to-effective-sql-server-monitoring/)
 * (13-Nov-2017) [How should you build a high-performance column store for the 2020s?](https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/)
@@ -208,6 +209,7 @@ https://github.com/github/linguist
 
 ## Serverless
 
+* (2017-Nov-16) [Java in Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Java-in-Azure-Functions)
 * (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
 
 ## Simulation
