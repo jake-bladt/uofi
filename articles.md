@@ -216,6 +216,7 @@ https://github.com/github/linguist
 
 ## Testing
 
+* (16-Nov-2017) [7 Open-Source Test Automation Frameworks](https://www.sitepoint.com/7-open-source-test-automation-frameworks/)
 * (2017-Jun-16) [Testing FizzBuzz in Rust](http://www.scriptingforsport.com/playing-with-tdd-fizzbuzz-in-rust/)
 * (2017-May-11) [Progressive Web Metrics](https://hackernoon.com/easy-progressive-web-metrics-9afa5ed857c2) - Measuring in-browser load time.
 
@@ -249,6 +250,8 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (16-Nov-2017) [Glitch: write fun small web projects instantly](https://jvns.ca/blog/2017/11/13/glitch--write-small-web-projects-easily/)
+* (16-Nov-2017) [Build a “Serverless” Reddit Bot in 3 Steps with Node.js and StdLib Sourcecode](https://hackernoon.com/build-a-serverless-reddit-bot-in-3-steps-with-node-js-and-stdlib-sourcecode-e5296b78fc64)
 * (16-Nov-2017) [How to generate random JSON data structures](http://www.catonmat.net/blog/generate-random-json-data-structures/)
 * (2017-Nov-3) [OSCON 2017](https://www.safaribooksonline.com/library/view/oscon-2017-/9781491976227/)
 * (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
