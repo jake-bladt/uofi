@@ -235,6 +235,7 @@ https://github.com/github/linguist
 
 ## Web Development
 
+* (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
 * (2017-Jun-24) [General Web Dev Tools](http://www.catonmat.net/blog/225-programmer-tools/)
 
 ## Web Design
