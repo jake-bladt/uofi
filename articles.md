@@ -59,6 +59,7 @@
 
 ## Dev Tools
 
+* (16-Nov-2017) [Table Relationship Diagrams with Graphviz](https://spin.atomicobject.com/2017/11/15/table-rel-diagrams-graphviz/)
 * (2017-Jul-21) [Bazel](https://bazel.build)
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
 
@@ -248,6 +249,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (16-Nov-2017) [How to generate random JSON data structures](http://www.catonmat.net/blog/generate-random-json-data-structures/)
 * (2017-Nov-3) [OSCON 2017](https://www.safaribooksonline.com/library/view/oscon-2017-/9781491976227/)
 * (2017-Jul-7) [Get the current git branch](https://dev.to/kakty3/easy-get-current-git-branch)
 * (2017-Jun-30) [Stanford's Game Definition Language](http://games.stanford.edu/games/gdl.html)
