@@ -50,6 +50,7 @@
 
 ## Databases
 
+* (16-Nov-2017) [Documenting SQL Server with PowerShell](https://www.red-gate.com/simple-talk/sql/database-administration/documenting-sql-server-with-powershell/)
 * (15-Nov-2017) [8 Steps to Effective SQL Server Monitoring](https://www.red-gate.com/simple-talk/sql/database-administration/eight-steps-to-effective-sql-server-monitoring/)
 * (13-Nov-2017) [How should you build a high-performance column store for the 2020s?](https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/)
 * (05-Jul-2017) [More SQL on Spanner](https://blog.acolyer.org/2017/07/03/spanner-becoming-a-sql-system/)
