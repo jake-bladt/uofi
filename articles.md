@@ -29,6 +29,7 @@
 
 ## Computer Science
 
+* (2017-Nov-22) [Sorting Algorithm Game](https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf)
 * (2017-Jul-12) [100 Days of Algorithms](https://medium.com/100-days-of-algorithms)
 * (2017-Jul-5) [Undefined Behaviors](https://blog.regehr.org/archives/1520)
 * (2017-Jun-25) [Good-Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
