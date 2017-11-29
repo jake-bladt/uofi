@@ -2,6 +2,7 @@
 
 ## .NET
 
+* (2017-Nov-29) [Continuous Delivery Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (2017-Nov-15) [.NET on the Google Cloud](https://cloud.google.com/dotnet/docs/getting-started/hello-world)
 
 ## Artificial Intelligence
@@ -184,7 +185,8 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 ## Maths
 
-* [Overbooking and Probability](https://plus.maths.org/content/overbooking)
+* (29-Nov-2017) [Complex Numbers](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
+* (Unknown) [Overbooking and Probability](https://plus.maths.org/content/overbooking)
 
 ## Programming Languages
 
@@ -216,6 +218,8 @@ https://github.com/github/linguist
 
 ## Serverless
 
+* (2017-Nov-29) [Hyperdev](https://www.joelonsoftware.com/2016/05/31/introducing-hyperdev/)
+* (2017-Nov-29) [Serverless via e-mail](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4314/Retrieving-Pop3-Emails-Using-Azure-Functions.aspx)
 * (2017-Nov-15) [Azure Functions in Kotlin](https://blog.maartenballiauw.be/post/2017/11/16/running-kotlin-in-azure-functions.html)
 * (2017-Nov-15) [Improvements to Azure Functions in Visual Studio](https://blogs.msdn.microsoft.com/webdev/2017/11/15/improvements-to-azure-functions-in-visual-studio/)
 * (2017-Nov-15) [Deploy Azure Functions with Visual Studio Code](https://www.michaelcrump.net/azure-tips-and-tricks52/)
@@ -266,6 +270,8 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (29-Nov-2017) [4 Easy Steps to Becoming a Data Scientest](https://www.datasciencecentral.com/profiles/blogs/4-easy-steps-to-becoming-a-data-scientist)
+* (29-Nov-2017) [Making it easier to contribute to Netflix OSS](https://medium.com/netflix-techblog/making-it-easier-to-contribute-to-netflix-oss-cffc3276974a)
 * (16-Nov-2017) [Glitch: write fun small web projects instantly](https://jvns.ca/blog/2017/11/13/glitch--write-small-web-projects-easily/)
 * (16-Nov-2017) [Build a “Serverless” Reddit Bot in 3 Steps with Node.js and StdLib Sourcecode](https://hackernoon.com/build-a-serverless-reddit-bot-in-3-steps-with-node-js-and-stdlib-sourcecode-e5296b78fc64)
 * (16-Nov-2017) [How to generate random JSON data structures](http://www.catonmat.net/blog/generate-random-json-data-structures/)
