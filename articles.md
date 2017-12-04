@@ -54,6 +54,10 @@
 * (2017-Apr-18) [Harvard's CS50](https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
 * (2017-Apr-17) [The Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp)
 
+## Data Sources
+
+* (4-Dec-2017) [10,000 Best-Reviewed Books](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/)
+
 ## Databases
 
 * (16-Nov-2017) [datetime2](https://stackoverflow.com/questions/1334143/datetime2-vs-datetime-in-sql-server)
