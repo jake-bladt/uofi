@@ -274,6 +274,7 @@ https://github.com/github/linguist
 
 ## Uncategorized
 
+* (05-Dec-2017) [Download Streaming Video with F12 Tools](https://www.hanselman.com/blog/HowToDownloadEmbeddedVideosWithF12ToolsInYourBrowser.aspx)
 * (29-Nov-2017) [4 Easy Steps to Becoming a Data Scientest](https://www.datasciencecentral.com/profiles/blogs/4-easy-steps-to-becoming-a-data-scientist)
 * (29-Nov-2017) [Making it easier to contribute to Netflix OSS](https://medium.com/netflix-techblog/making-it-easier-to-contribute-to-netflix-oss-cffc3276974a)
 * (16-Nov-2017) [Glitch: write fun small web projects instantly](https://jvns.ca/blog/2017/11/13/glitch--write-small-web-projects-easily/)
