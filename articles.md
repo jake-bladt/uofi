@@ -30,6 +30,7 @@
 
 ## Computer Science
 
+* (2017-Dec-13) [A Convex Hull Algorithm and its implementation in O(n log h)](https://www.codeproject.com/Articles/775753/A-Convex-Hull-Algorithm-and-its-implementation-in)
 * (2017-Nov-22) [Sorting Algorithm Game](https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf)
 * (2017-Jul-12) [100 Days of Algorithms](https://medium.com/100-days-of-algorithms)
 * (2017-Jul-5) [Undefined Behaviors](https://blog.regehr.org/archives/1520)
