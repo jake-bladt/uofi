@@ -2,6 +2,7 @@
 
 ## .NET
 
+* (2017-Dec-15) [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?tabs=visual-studio%2Caspnetcore2x)
 * (2017-Nov-29) [Continuous Delivery Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (2017-Nov-15) [.NET on the Google Cloud](https://cloud.google.com/dotnet/docs/getting-started/hello-world)
 
