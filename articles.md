@@ -262,6 +262,10 @@ https://github.com/github/linguist
 * (2017-Apr-12) [Upspin](https://upspin.io) - Distributed file system
 * (2017-Apr-7) [Comparison of VPNs](https://thatoneprivacysite.net/simple-vpn-comparison-chart/)
 
+## Water
+
+* (2018-Nov-1) [Water and the Blockchain](https://hackernoon.com/blockchain-and-water-everything-you-need-to-know-b7e753108715)
+
 ## Web Development
 
 * (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
