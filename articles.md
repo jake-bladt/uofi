@@ -265,6 +265,7 @@ https://github.com/github/linguist
 ## Water
 
 * (2018-Nov-1) [Water and the Blockchain](https://hackernoon.com/blockchain-and-water-everything-you-need-to-know-b7e753108715)
+* (2018-Nov-1) [The Origin of Water](https://www.quantamagazine.org/ewine-van-dishoeck-the-netherlander-who-traced-waters-origin-20181101/)
 
 ## Web Content
 
@@ -304,3 +305,4 @@ https://github.com/github/linguist
 * (2017-Apr-15) [Numerai](https://www.wired.com/2017/02/ai-hedge-fund-created-new-currency-make-wall-street-work-like-open-source/) - Cryptocurrency to make Wall Street more FOSS-like.
 * (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
 * (2017-Apr-14) [Developer Portfolios](https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/)
+* (2018-Nov-1) [The Defeat of Reason](http://bostonreview.net/science-nature-philosophy-religion/tim-maudlin-defeat-reason)
