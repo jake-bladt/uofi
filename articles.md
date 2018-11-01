@@ -306,3 +306,4 @@ https://github.com/github/linguist
 * (2017-Apr-14) [Yoga UI](https://facebook.github.io/yoga/) - A cross-platform UI framework.
 * (2017-Apr-14) [Developer Portfolios](https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/)
 * (2018-Nov-1) [The Defeat of Reason](http://bostonreview.net/science-nature-philosophy-religion/tim-maudlin-defeat-reason)
+* (2018-Nov-1) [SA on Philosophy](https://blogs.scientificamerican.com/cross-check/philosophy-has-made-plenty-of-progress/)
