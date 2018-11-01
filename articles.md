@@ -266,6 +266,10 @@ https://github.com/github/linguist
 
 * (2018-Nov-1) [Water and the Blockchain](https://hackernoon.com/blockchain-and-water-everything-you-need-to-know-b7e753108715)
 
+## Web Content
+
+* (2018-Nov-1) [Profiting as a content author](https://hackernoon.com/content-writer-how-to-make-money-writing-for-others-f0b72ffe28b0)
+
 ## Web Development
 
 * (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
