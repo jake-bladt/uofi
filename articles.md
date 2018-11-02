@@ -19,6 +19,7 @@
 * (2017-Apr-29) [Machine Learning Videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
+* (2018-Nov-2) [Is Object Detection a Done Deal?](https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2)
 
 ## Azure
 * (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
