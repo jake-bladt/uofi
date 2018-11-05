@@ -274,6 +274,7 @@ https://github.com/github/linguist
 ## VSCode
 
 * (2018-Nov-5) [Writing Extensions for VSCode](https://code.visualstudio.com/docs/extensions/overview)
+* (2018-Nov-5) [VS Code Can Do That?](https://vscodecandothat.com/)
 
 ## Water
 
