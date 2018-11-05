@@ -6,6 +6,8 @@
 * (2017-Nov-29) [Continuous Delivery Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (2017-Nov-15) [.NET on the Google Cloud](https://cloud.google.com/dotnet/docs/getting-started/hello-world)
 
+* (2018-Nov-5) [Building dynamic LINQ queries using Expression Trees and Func](http://coderethinked.com/building-dynamic-linq-queries-using-expression-trees-and-func/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
+
 ## Artificial Intelligence
 
 * (2017-Nov-10) [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
@@ -20,6 +22,7 @@
 * (2017-Apr-29) [Getting Started with Deep Learning](https://www.svds.com/getting-started-deep-learning/)
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 * (2018-Nov-2) [Is Object Detection a Done Deal?](https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2)
+* (2018-Nov-5) [Top 10 Algorithms for ML](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 
 ## Azure
 * (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
@@ -267,6 +270,10 @@ https://github.com/github/linguist
 ## Volunteerism
 
 * (2018-Nov-2) [Toptal Volunteers](https://www.toptal.com/top-volunteer)
+
+## VSCode
+
+* (2018-Nov-5) [Writing Extensions for VSCode](https://code.visualstudio.com/docs/extensions/overview)
 
 ## Water
 
