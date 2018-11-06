@@ -241,6 +241,7 @@ https://github.com/github/linguist
 * (2017-Nov-15) [Deploy Azure Functions with Visual Studio Code](https://www.michaelcrump.net/azure-tips-and-tricks52/)
 * (2017-Nov-16) [Java in Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Java-in-Azure-Functions)
 * (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
+* (2018-Nov-6) [Invoking Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/invoking-lambda-functions.html)
 
 ## Simulation
 
