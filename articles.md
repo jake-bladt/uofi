@@ -195,6 +195,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (28-Apr-2017) [Abandoning Fake Deadlines](https://medium.com/garbage-collection/abandoning-fake-deadlines-4d535b9aec3b)
 * (5-Nov-2018) [Hire by Mindset, Not Skillset](https://hackernoon.com/dont-hire-by-whiteboarding-and-coding-tests-unless-you-are-google-or-the-likes-612e68544cf2)
 * (5-Nov-2018) [Software Development Practices Desperately Need Real Attention](https://medium.com/critically-deciding/software-development-practices-desperately-need-real-attention-9477b4b85bd1)
+* (5-Nov-2018) [Why is Hiring Broken? It starts with the whiteboard.](https://medium.freecodecamp.org/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db)
 
 ## Maths
 
