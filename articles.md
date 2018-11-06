@@ -117,6 +117,7 @@
 * (2018-Nov-2) [Understanding the Dangers of Token Velocity](https://hackernoon.com/token-velocity-a455173d69e3)
 * (2018-Nov-6) [Weird Ways of Using the Blockchain](https://hackernoon.com/weird-and-non-trivial-ways-of-using-blockchain-1edbf228a1f8)
 * (2018-Nov-6) [The Rise and Fall of an Indigenous Cryptocurrency](https://hackernoon.com/the-rise-and-fall-of-an-indigenous-cryptocurrency-7a7cab92c5a9)
+* (2018-Nov-6) [Crypto arbitrage](https://hackernoon.com/how-i-made-15-000-day-as-a-fresh-college-grad-74a87a80c253)
 
 ## Experimental
 
