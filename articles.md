@@ -5,8 +5,8 @@
 * (2017-Dec-15) [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?tabs=visual-studio%2Caspnetcore2x)
 * (2017-Nov-29) [Continuous Delivery Tools for Visual Studio](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (2017-Nov-15) [.NET on the Google Cloud](https://cloud.google.com/dotnet/docs/getting-started/hello-world)
-
 * (2018-Nov-5) [Building dynamic LINQ queries using Expression Trees and Func](http://coderethinked.com/building-dynamic-linq-queries-using-expression-trees-and-func/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
+* (2018-Nov-7) [From String to Lambda with Roslyn](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/)
 
 ## Artificial Intelligence
 
