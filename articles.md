@@ -328,3 +328,4 @@ https://github.com/github/linguist
 * (2017-Apr-14) [Developer Portfolios](https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/)
 * (2018-Nov-1) [The Defeat of Reason](http://bostonreview.net/science-nature-philosophy-religion/tim-maudlin-defeat-reason)
 * (2018-Nov-1) [SA on Philosophy](https://blogs.scientificamerican.com/cross-check/philosophy-has-made-plenty-of-progress/)
+* (2018-Nov-7) [The Irresistable Urge to Build Cities from Scratch](https://www.bloomberg.com/news/features/2018-11-02/the-irresistible-urge-to-build-cities-from-scratch)
