@@ -8,6 +8,7 @@
 * (2018-Nov-5) [Building dynamic LINQ queries using Expression Trees and Func](http://coderethinked.com/building-dynamic-linq-queries-using-expression-trees-and-func/?utm_source=csharpdigest&utm_medium=web&utm_campaign=featured)
 * (2018-Nov-7) [From String to Lambda with Roslyn](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/)
 * (2018-Nov-8) [Unit Testing C# File Access Code with System.IO.Abstractions](http://dontcodetired.com/blog/post/Unit-Testing-C-File-Access-Code-with-SystemIOAbstractions)
+* (2018-Nov-8) [Understanding the Whys, Whats, and Whens of ValueTask](https://blogs.msdn.microsoft.com/dotnet/2018/11/07/understanding-the-whys-whats-and-whens-of-valuetask/) - current as of .NET Core 2.0.
 
 ## Artificial Intelligence
 
