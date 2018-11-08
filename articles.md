@@ -226,6 +226,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-May-15) [the gzip library](https://pymotw.com/3/gzip/)
 * (2017-May-12) [venv](https://pymotw.com/3/venv/)
 * (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
+* (2018-Nov-8) [Work with Python in Visual Studio on Windows](https://docs.microsoft.com/en-gb/visualstudio/python/overview-of-python-tools-for-visual-studio?view=vs-2017)
 
 ## Python Libraries
 
