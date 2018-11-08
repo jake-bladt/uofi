@@ -169,6 +169,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-Apr-28) [JavaScript Decorators](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947)
 * (2017-Apr-28) [JavaScript errors and stack traces in depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
 * (2017-Apr-28) [An Introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack)
+* (2018-Nov-8) [Functional JavaScript — Functors, Monads, and Promises](https://hackernoon.com/functional-javascript-functors-monads-and-promises-679ce2ab8abe)
 
 ## JavaScript Libraries
 
