@@ -9,7 +9,7 @@
 * (2018-Nov-7) [From String to Lambda with Roslyn](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/)
 * (2018-Nov-8) [Unit Testing C# File Access Code with System.IO.Abstractions](http://dontcodetired.com/blog/post/Unit-Testing-C-File-Access-Code-with-SystemIOAbstractions)
 * (2018-Nov-8) [Understanding the Whys, Whats, and Whens of ValueTask](https://blogs.msdn.microsoft.com/dotnet/2018/11/07/understanding-the-whys-whats-and-whens-of-valuetask/) - current as of .NET Core 2.0.
-* (2018-Nov-8) [Continuous Deployment of Azure Functions)(http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview)
+* (2018-Nov-8) [Continuous Deployment of Azure Functions](http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview)
 
 ## Artificial Intelligence
 
