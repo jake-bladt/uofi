@@ -302,6 +302,7 @@ https://github.com/github/linguist
 
 * (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
 * (2017-Jun-24) [General Web Dev Tools](http://www.catonmat.net/blog/225-programmer-tools/)
+* (2018-Nov-9) [How does SSL work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 
 ## Web Design
 
