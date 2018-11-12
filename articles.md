@@ -10,6 +10,7 @@
 * (2018-Nov-8) [Unit Testing C# File Access Code with System.IO.Abstractions](http://dontcodetired.com/blog/post/Unit-Testing-C-File-Access-Code-with-SystemIOAbstractions)
 * (2018-Nov-8) [Understanding the Whys, Whats, and Whens of ValueTask](https://blogs.msdn.microsoft.com/dotnet/2018/11/07/understanding-the-whys-whats-and-whens-of-valuetask/) - current as of .NET Core 2.0.
 * (2018-Nov-8) [Continuous Deployment of Azure Functions](http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview)
+* (2018-Nov-12) [Ultimate NLog Tutorial for .NET Logging – 19 Best Practices, Resources and Tips](https://stackify.com/nlog-guide-dotnet-logging/)
 
 ## Artificial Intelligence
 
