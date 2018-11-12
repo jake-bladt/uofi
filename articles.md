@@ -187,6 +187,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-Apr-23) [Ramda.js](http://ramdajs.com) - Functional programming in JavaScript.
 * (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
 * (2017-Apr-2) [Sails for Node](http://sailsjs.com/)
+* (2018-Nov-12) [Learn Data Visualization With D3.js](https://code.tutsplus.com/courses/learn-data-visualization-with-d3js?ec_promo=teaser_post_short)
 
 ## Linux
 
