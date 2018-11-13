@@ -12,6 +12,10 @@
 * (2018-Nov-8) [Continuous Deployment of Azure Functions](http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview)
 * (2018-Nov-12) [Ultimate NLog Tutorial for .NET Logging – 19 Best Practices, Resources and Tips](https://stackify.com/nlog-guide-dotnet-logging/)
 
+## Architecture
+
+* (2018-Nov-14) [A List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
+
 ## Artificial Intelligence
 
 * (2017-Nov-10) [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
@@ -27,6 +31,7 @@
 * (2017-Apr-22) [Inkling](http://www.javaworld.com/article/3190784/application-development/new-ai-language-hides-tensorflow-complexity.html) - a high-level language that lives on top of TensorFlow.
 * (2018-Nov-2) [Is Object Detection a Done Deal?](https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2)
 * (2018-Nov-5) [Top 10 Algorithms for ML](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+* (2018-Nov-13) [Scaling Machine Learning with Michaelangelo](https://eng.uber.com/scaling-michelangelo/)
 
 ## Azure
 * (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
@@ -84,7 +89,7 @@
 * (2017-Jul-21) [Bazel](https://bazel.build)
 * (2017-Apr-24) [Anbox](https://anbox.io) - Android in a container.
 
-## Devops
+## DevOps
 
 * (2017-Nov-16) [Kubernetes in Visual Studio](https://www.hanselman.com/blog/AnnouncingVisualStudioAndKubernetesVisualStudioConnectedEnvironment.aspx)
 * (2017-Nov-16) [Creating a Minimal ASP.NET Core Windows Container](https://blogs.msdn.microsoft.com/webdev/2017/11/09/creating-a-minimal-asp-net-core-windows-container/)
@@ -113,6 +118,10 @@
 * (2017-Apr-5) [DC/OS](https://stackshare.io/dcos) - Data Center Operating System
 * (2017-Apr-4) [From Local Docker to Cloud Deployment](https://www.youtube.com/watch?v=7CZFpHUPqXw)
 * (2017-Apr-3) [Capital One uses balancer features](https://www.youtube.com/watch?v=uFs_EwJr-yc)
+* (2018-Nov-13) [Source Control your DB for DevOps](https://www.infoq.com/articles/DevOps-Databases)
+* (2018-Nov-13) [CI/CD for Lambda Functions with Jenkins](https://read.acloud.guru/ci-cd-for-lambda-functions-with-jenkins-1c682a6c8d33)
+* (2018-Nov-13) [An Introduction to Medieval Cities and Cloud Security](https://arcentry.com/blog/an-introduction-to-medieval-cities-and-cloud-security/)
+* (2018-Nov-13) [Every Service is an Island](https://deliveroo.engineering/2017/03/27/every-service-is-an-island.html)
 
 ## Distributed Ledgers
 
@@ -140,6 +149,7 @@
 Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.edu/documents/sample_articles/2002_44_3_4776.pdf)
 * (2017-May-11) [Moneyball Teams](http://bg-blog.com/2017/04/21/moneyball-teams/)
 * (2017-Apr-27) [The LinkedIn REACH program](https://careers.linkedin.com/reach/AboutReach)
+* (2018-Nov-13) [Great Job Interview Questions](https://www.thecut.com/article/questions-to-ask-in-a-job-interview.html)
 
 ## Image Processing
 
@@ -188,6 +198,8 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-Apr-18) [Mithril.js](https://mithril.js.org) - A lightweight framework for SPAs.
 * (2017-Apr-2) [Sails for Node](http://sailsjs.com/)
 * (2018-Nov-12) [Learn Data Visualization With D3.js](https://code.tutsplus.com/courses/learn-data-visualization-with-d3js?ec_promo=teaser_post_short)
+* (2018-Nov-13) [Testing React with Jest and Enzyme II](https://codeburst.io/testing-react-events-with-jest-and-enzyme-ii-46fbe4b8b589)
+* (2018-Nov-13) [BugSnag](https://www.bugsnag.com/platforms/javascript/) - JavaScript error reporting engine
 
 ## Linux
 
@@ -205,6 +217,11 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (5-Nov-2018) [Hire by Mindset, Not Skillset](https://hackernoon.com/dont-hire-by-whiteboarding-and-coding-tests-unless-you-are-google-or-the-likes-612e68544cf2)
 * (5-Nov-2018) [Software Development Practices Desperately Need Real Attention](https://medium.com/critically-deciding/software-development-practices-desperately-need-real-attention-9477b4b85bd1)
 * (5-Nov-2018) [Why is Hiring Broken? It starts with the whiteboard.](https://medium.freecodecamp.org/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db)
+* (13-Nov-2018) [Self-Inflicted Chaos](https://medium.com/@johnpcutler/self-inflicted-chaos-389793eaaed9)
+* (13-Nov-2018) [Performance Management From Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
+* (13-Nov-2018) [Why Startup Culture Sucks](https://www.forbes.com/sites/michalbohanes/2018/11/05/bury-the-hustle-10-examples-of-how-startup-work-culture-sucks/#fbd8e3533e7f)
+* (13-Nov-2018) [Ego is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
+* (13-Nov-2018) [Pull Requests in the Workplace](https://www.danclarke.com/pullrequests-in-the-workplace)
 
 ## Maths
 
@@ -251,6 +268,10 @@ https://github.com/github/linguist
 * (2017-Jun-19) [Serverless Computing: Current Trends and Open Problems](https://arxiv.org/pdf/1706.03178.pdf)
 * (2018-Nov-6) [Invoking Lambda Functions](https://docs.aws.amazon.com/lambda/latest/dg/invoking-lambda-functions.html)
 * (2018-Nov-8) [Writing a github webhook as an Azure function](https://www.thomaslevesque.com/2018/03/30/writing-a-github-webhook-as-an-azure-function/)
+* (2018-Nov-13) [An introduction to Azure Functions](https://www.grapecity.com/en/blogs/an-introduction-to-azure-functions)
+* (2018-Nov-13) [Creating an Azure function app in the Azure Portal](http://davidgiard.com/2018/11/13/CreatingAnAzureFunctionAppInTheAzurePortal.aspx)
+* (2018-Nov-13) [Now](https://zeit.co/blog/now-2) - Serverless function development and deployment
+* (2018-Nov-13) [The Case of the Broken Lambda](http://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/)
 
 ## Simulation
 
@@ -265,6 +286,9 @@ https://github.com/github/linguist
 * (16-Nov-2017) [7 Open-Source Test Automation Frameworks](https://www.sitepoint.com/7-open-source-test-automation-frameworks/)
 * (2017-Jun-16) [Testing FizzBuzz in Rust](http://www.scriptingforsport.com/playing-with-tdd-fizzbuzz-in-rust/)
 * (2017-May-11) [Progressive Web Metrics](https://hackernoon.com/easy-progressive-web-metrics-9afa5ed857c2) - Measuring in-browser load time.
+* (2018-Nov-13) [What to Test and Not Test](http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
+* (2018-Nov-13) [Testing a Software Rewrite](https://www.stickyminds.com/article/testing-software-rewrite)
+* (2018-Nov-13) [Five Challenges Banks Face When Unit Testing](https://www.typemock.com/5-challenges-banks-face-unit-testing)
 
 ## Utilities
 
@@ -300,18 +324,21 @@ https://github.com/github/linguist
 
 * (2018-Nov-1) [Profiting as a content author](https://hackernoon.com/content-writer-how-to-make-money-writing-for-others-f0b72ffe28b0)
 
-## Web Development
-
-* (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
-* (2017-Jun-24) [General Web Dev Tools](http://www.catonmat.net/blog/225-programmer-tools/)
-* (2018-Nov-9) [How does SSL work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
-
 ## Web Design
 
 * (2017-May-15) [Sakura CSS](https://github.com/oxalorg/sakura)
 * (2017-Apr-28) [An Encyclopedic Approach to Type](http://luc.devroye.org/fonts.html)
 * (2017-Apr-28) [Animista](http://animista.net/)
 * (2017-Apr-28) [Milligram](https://stackshare.io/milligram) - Lightweight CSS framework
+* (2018-Nov-13) [CSS Grid for Editorial Layout](https://v6.robweychert.com/blog/2018/11/css-grid-editorial-layouts/)
+* (2018-Nov-13) [Building your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
+* (2018-Nov-13) [CSS Grid vs. CSS Framework](https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid/)
+
+## Web Development
+
+* (2017-Nov-16) [Generating clients for your APIs with AutoRest](https://dzimchuk.net/generating-clients-for-your-apis-with-autorest/)
+* (2017-Jun-24) [General Web Dev Tools](http://www.catonmat.net/blog/225-programmer-tools/)
+* (2018-Nov-9) [How does SSL work?](https://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 
 ## Uncategorized
 
@@ -338,3 +365,5 @@ https://github.com/github/linguist
 * (2018-Nov-1) [The Defeat of Reason](http://bostonreview.net/science-nature-philosophy-religion/tim-maudlin-defeat-reason)
 * (2018-Nov-1) [SA on Philosophy](https://blogs.scientificamerican.com/cross-check/philosophy-has-made-plenty-of-progress/)
 * (2018-Nov-7) [The Irresistable Urge to Build Cities from Scratch](https://www.bloomberg.com/news/features/2018-11-02/the-irresistible-urge-to-build-cities-from-scratch)
+* (2018-Nov-13) [WriteFreely](https://writefreely.org/) - lightweight blogging engine
+* (2018-Nov-13) [How a Passion for Programming Can Make Us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
