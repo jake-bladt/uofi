@@ -11,6 +11,7 @@
 * (2018-Nov-8) [Understanding the Whys, Whats, and Whens of ValueTask](https://blogs.msdn.microsoft.com/dotnet/2018/11/07/understanding-the-whys-whats-and-whens-of-valuetask/) - current as of .NET Core 2.0.
 * (2018-Nov-8) [Continuous Deployment of Azure Functions](http://dontcodetired.com/blog/post/Azure-Functions-Continuous-Deployment-with-Azure-Pipelines-Part-1-Overview)
 * (2018-Nov-12) [Ultimate NLog Tutorial for .NET Logging – 19 Best Practices, Resources and Tips](https://stackify.com/nlog-guide-dotnet-logging/)
+* (2018-Nov-13) [Getting started with ASP.NET core and NLog](https://github.com/NLog/NLog.Web/wiki/Getting-started-with-ASP.NET-Core-2)
 
 ## Architecture
 
