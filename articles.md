@@ -368,3 +368,4 @@ https://github.com/github/linguist
 * (2018-Nov-7) [The Irresistable Urge to Build Cities from Scratch](https://www.bloomberg.com/news/features/2018-11-02/the-irresistible-urge-to-build-cities-from-scratch)
 * (2018-Nov-13) [WriteFreely](https://writefreely.org/) - lightweight blogging engine
 * (2018-Nov-13) [How a Passion for Programming Can Make Us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
+* (2018-Nov-14) [Essential Tools for WordPress Developers](https://www.godaddy.com/garage/essential-tools-wordpress-web-designers-developers/)
