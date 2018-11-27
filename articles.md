@@ -43,6 +43,10 @@
 * (2017-Jul-5) [A Relaxing Technique](http://blog.sigfpe.com/2017/06/a-relaxation-technique.html)
 * (2017-Jun-23) [Axe-Grinders (aka Restricted Boltzmann Machines)](https://msdn.microsoft.com/en-us/magazine/mt809120)
 
+## Cloud Computing
+
+* (2018-Nov-27) [AWS Video Training](https://www.aws.training/)
+
 ## Computer Science
 
 * (2017-Dec-13) [A Convex Hull Algorithm and its implementation in O(n log h)](https://www.codeproject.com/Articles/775753/A-Convex-Hull-Algorithm-and-its-implementation-in)
