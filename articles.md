@@ -73,6 +73,7 @@
 * (2017-Apr-19) [The bin-packing problem](https://en.wikipedia.org/wiki/Bin_packing_problem)
 * (2017-Apr-18) [Harvard's CS50](https://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
 * (2017-Apr-17) [The Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp)
+* (2018-Nov-30) [Representing Graphs](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)
 
 ## Data Sources
 
