@@ -215,6 +215,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (15-May-2017) [Let's Learn tcpdump](https://jvns.ca/tcpdump-zine.pdf)
 * (24-Apr-2017) [Linux from Scratch](http://linuxfromscratch.org/)
 * (24-Apr-2017) [Build your own Linux Distro](http://www.wikihow.com/Build-Your-Own-Linux-Distribution)
+* (3-Dec-2018) [NixOS](https://nixos.org/) - Functional, Idempotent Linux
 
 ## Managing
 
@@ -375,3 +376,4 @@ https://github.com/github/linguist
 * (2018-Nov-13) [WriteFreely](https://writefreely.org/) - lightweight blogging engine
 * (2018-Nov-13) [How a Passion for Programming Can Make Us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
 * (2018-Nov-14) [Essential Tools for WordPress Developers](https://www.godaddy.com/garage/essential-tools-wordpress-web-designers-developers/)
+* (2018-Dec-2) [TAILS Linux](https://www.computerworld.com/article/3235565/desktop-apps/10-obscure-but-useful-desktop-linux-distros.html#slide10) - Private Linux, runs off a thumb drive.
