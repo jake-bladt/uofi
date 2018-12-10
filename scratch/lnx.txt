@@ -1,0 +1,5 @@
+https://davidwalsh.name/download-youtube-channel
+https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/
+https://blog.acolyer.org/2018/11/23/uncertainty-propagation-in-data-processing-systems/
+
+https://docs.docker.com/machine/drivers/hyper-v/#2-set-up-a-new-external-network-switch-optional
