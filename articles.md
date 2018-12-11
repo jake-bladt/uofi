@@ -143,6 +143,7 @@
 * (2017-Jun-29) [Writing AWS Lambda Functions in Clojure](https://aws.amazon.com/blogs/compute/clojure/)
 * (2017-May-31) [P: A programming language designed for asynchrony, fault-tolerance and uncertainty](https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/)
 * (2017-May-19) [Writing correct lock-free and distributed stateful systems in Rust](https://github.com/spacejam/tla-rust)
+* (2018-Dec-11) [PLZoo](http://plzoo.andrej.com/)
 
 ## Game Theory
 
@@ -188,6 +189,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-Apr-28) [An Introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack)
 * (2018-Nov-8) [Functional JavaScript — Functors, Monads, and Promises](https://hackernoon.com/functional-javascript-functors-monads-and-promises-679ce2ab8abe)
 * (2018-Nov-16) [Asynchronous patterns in JavaScript](https://www.imaginarycloud.com/blog/asynch-javascript-patterns-guide/)
+* (2018-Dec-11) [Waiting for Godot with callbacks, promises, and async](https://swizec.com/blog/waiting-godot-callbacks-promises-async/swizec/8737)
 
 ## JavaScript Libraries
 
@@ -254,6 +256,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 * (2017-May-12) [venv](https://pymotw.com/3/venv/)
 * (2017-May-11) [Turning Sublime Text Into a Lightweight Python IDE](http://cewing.github.io/training.codefellows/assignments/day01/sublime_as_ide.html)
 * (2018-Nov-8) [Work with Python in Visual Studio on Windows](https://docs.microsoft.com/en-gb/visualstudio/python/overview-of-python-tools-for-visual-studio?view=vs-2017)
+* (2018-Dec-10) [Building a Web Scraper from start to finish](https://hackernoon.com/building-a-web-scraper-from-start-to-finish-bb6b95388184)
 
 ## Python Libraries
 
@@ -377,3 +380,4 @@ https://github.com/github/linguist
 * (2018-Nov-13) [How a Passion for Programming Can Make Us Worse at our Jobs](https://www.philosophicalhacker.com/post/programmer-passion-worse/)
 * (2018-Nov-14) [Essential Tools for WordPress Developers](https://www.godaddy.com/garage/essential-tools-wordpress-web-designers-developers/)
 * (2018-Dec-2) [TAILS Linux](https://www.computerworld.com/article/3235565/desktop-apps/10-obscure-but-useful-desktop-linux-distros.html#slide10) - Private Linux, runs off a thumb drive.
+* (2018-Dec-11) [Your Taste Is Better than Your Skill: Write Code Every Day](https://swizec.com/blog/write-code-every-day/swizec/8795)
