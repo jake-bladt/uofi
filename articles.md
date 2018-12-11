@@ -284,6 +284,7 @@ https://github.com/github/linguist
 * (2018-Nov-13) [Creating an Azure function app in the Azure Portal](http://davidgiard.com/2018/11/13/CreatingAnAzureFunctionAppInTheAzurePortal.aspx)
 * (2018-Nov-13) [Now](https://zeit.co/blog/now-2) - Serverless function development and deployment
 * (2018-Nov-13) [The Case of the Broken Lambda](http://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/)
+* (2018-Dec-11) [Firecracker](https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/)
 
 ## Simulation
 
