@@ -33,6 +33,7 @@
 * (2018-Nov-2) [Is Object Detection a Done Deal?](https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2)
 * (2018-Nov-5) [Top 10 Algorithms for ML](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 * (2018-Nov-13) [Scaling Machine Learning with Michaelangelo](https://eng.uber.com/scaling-michelangelo/)
+* (2018-Dec-11) [Topics with Sebastien Dubeck](https://www.microsoft.com/en-us/research/blog/chasing-convex-bodies-and-other-random-topics-with-dr-sebastien-bubeck/)
 
 ## Azure
 * (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
