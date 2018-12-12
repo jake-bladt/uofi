@@ -290,6 +290,10 @@ https://github.com/github/linguist
 
 * (2017-Jul-4) [Answering Historical What-if Queries with Provenance, Reenactment, and Symbolic Execution](https://www.usenix.org/conference/tapp17/workshop-program/presentation/arab)
 
+## Startups
+
+* (2018-Dec-12) [The Law of Three and Ten](http://randsinrepose.com/archives/everything-breaks/)
+
 ## Software Architecture
 
 * (2017-Nov-22) [Hexagonal Architecture](https://spin.atomicobject.com/2017/11/21/hexagonal-architecture/)
