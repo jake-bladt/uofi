@@ -239,6 +239,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 * (29-Nov-2017) [Complex Numbers](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (Unknown) [Overbooking and Probability](https://plus.maths.org/content/overbooking)
+* (12-Dec-2018) [A high-performance graph domain specific language](http://graphit-lang.org/)
 
 ## Programming Languages
 
