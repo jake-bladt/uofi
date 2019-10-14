@@ -7,3 +7,5 @@ Big takeaway: Namely is usign gRPC in dotnet core in production.
 gRPC lives on top of HTTP/2
 
 The magic is in the protobufs (protocol buffers.)
+
+gRPC - The 'S' is for security.
