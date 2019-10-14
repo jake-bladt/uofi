@@ -33,6 +33,8 @@
 * (2018-Nov-2) [Is Object Detection a Done Deal?](https://hackernoon.com/is-object-detection-a-done-deal-59a7be913fd2)
 * (2018-Nov-5) [Top 10 Algorithms for ML](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 * (2018-Nov-13) [Scaling Machine Learning with Michaelangelo](https://eng.uber.com/scaling-michelangelo/)
+* (2018-Dec-11) [Topics with Sebastien Dubeck](https://www.microsoft.com/en-us/research/blog/chasing-convex-bodies-and-other-random-topics-with-dr-sebastien-bubeck/)
+* (2018-Dec-12) [https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/](https://machinelearningmastery.com/train-neural-networks-with-noise-to-reduce-overfitting/)
 
 ## Azure
 * (16-Nov-2017) [Announcing general availability of Bash in Cloud Shell](https://azure.microsoft.com/en-us/blog/bash-cloud-shell-ga/)
@@ -237,6 +239,7 @@ Lessons from the Stanford Project on Emerging Companies](https://cmr.berkeley.ed
 
 * (29-Nov-2017) [Complex Numbers](https://marketplace.visualstudio.com/items?itemName=VSIDEDevOpsMSFT.ContinuousDeliveryToolsforVisualStudio)
 * (Unknown) [Overbooking and Probability](https://plus.maths.org/content/overbooking)
+* (12-Dec-2018) [A high-performance graph domain specific language](http://graphit-lang.org/)
 
 ## Programming Languages
 
@@ -283,10 +286,15 @@ https://github.com/github/linguist
 * (2018-Nov-13) [Creating an Azure function app in the Azure Portal](http://davidgiard.com/2018/11/13/CreatingAnAzureFunctionAppInTheAzurePortal.aspx)
 * (2018-Nov-13) [Now](https://zeit.co/blog/now-2) - Serverless function development and deployment
 * (2018-Nov-13) [The Case of the Broken Lambda](http://veekaybee.github.io/2018/09/24/the-case-of-the-broken-lambda/)
+* (2018-Dec-11) [Firecracker](https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/)
 
 ## Simulation
 
 * (2017-Jul-4) [Answering Historical What-if Queries with Provenance, Reenactment, and Symbolic Execution](https://www.usenix.org/conference/tapp17/workshop-program/presentation/arab)
+
+## Startups
+
+* (2018-Dec-12) [The Law of Three and Ten](http://randsinrepose.com/archives/everything-breaks/)
 
 ## Software Architecture
 
