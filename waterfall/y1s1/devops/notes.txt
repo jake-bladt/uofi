@@ -1,0 +1,27 @@
+I'm having a hard time staying awake while I read this book. I'm glad I didn't read it before I made the switch from platform development. I might have turned down the opportunity to apply for this job.
+
+DevOps arises out of agile, but it's not necessarily of Agile. You could be writing Six Sigma software and still need continuous, automated testing. At Picofemto, we needed to run thousands of tests roughly once a day. A full run took about thirty-six hours. In spite of being highly regulated and agile-in-name-only, we couldn't have developed the way we did without DevOps.
+ 
+Question: What would be the advantages of a database that stored data independently of its schemae and used the schemae as versioned read/write contracts?
+
+Tolerant Reader pattern: a pattern by which software ignores data it doesn't recognize (akin to duck-typing.)
+
+Microservices / monolithic databases.
+
+Sikuli for UI testing
+libvert api for VM management?
+Investigate ansible (CI/CD)
+
+Part II, Chapter 6: Taking a snapshot of a Docker container. See "docker commit."
+
+Use InfluxDB as a time-series database.
+
+Look at rsyslog for log consolidation.
+Research configuring rsyslog to push to S3.
+
+Open Source alternatives to New Relic:
+http://alternativeto.net/software/new-relic/?license=free
+
+Check out Module 3 for ideas about Lean->Longevity
+
+Note the use of envsubst instead of the more generic sed.
