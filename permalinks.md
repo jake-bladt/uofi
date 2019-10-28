@@ -1,5 +1,9 @@
 # Permanent Links for my personal UofI portal
 
+## Cloud Accounts
+
+* [Linode](https://cloud.linode.com/dashboard)
+
 ## Source Control Management Systems
 
 * [Azure DevOps](https://dev.azure.com/jbladt/)
