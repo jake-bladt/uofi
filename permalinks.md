@@ -19,6 +19,7 @@
 * [O'Reilly Learning](https://learning.oreilly.com/home/)
 * [PluralSite](https://www.pluralsite.com)
 * [Unity GameDev](https://unity.gamedevhq.com/)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## Misc Tools
 
