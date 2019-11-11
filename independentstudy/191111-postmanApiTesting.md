@@ -8,8 +8,9 @@
 
 ## Resources
 
-* [Intro to Postman Part 2: authorizing a request](https://www.youtube.com/watch?v=Q23wkkfezfM)
+* A: [Intro to Postman Part 2: authorizing a request](https://www.youtube.com/watch?v=Q23wkkfezfM)
 
 ## Notes
 
-* Postman supports environments. Requests can bind to environment variables using the {{handlebars}} notation.
+* A: Postman supports environments. Requests can bind to environment variables using the {{handlebars}} notation.
+* A: Environmental variables have "initial value" and "current value." Initial value is less safe and will be used as placeholder text in bindings.
