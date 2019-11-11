@@ -7,6 +7,8 @@
 * [IBM CLoud](https://cloud.ibm.com/)
 * [Linode](https://cloud.linode.com/dashboard)
 * [RavenDB Cloud](https://cloud.ravendb.net/portal/jakebladt/products)
+* [Digital Ocean](https://www.digitalocean.com/) - No current account
+* [LiquidWeb](https://www.liquidweb.com/) - No current account
 
 ## Source Control Management Systems
 
