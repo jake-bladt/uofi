@@ -9,6 +9,7 @@
 ## Resources
 
 * A: [Intro to Postman Part 2: authorizing a request](https://www.youtube.com/watch?v=Q23wkkfezfM)
+* B: [Pluralsight: Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
 
 ## Notes
 
