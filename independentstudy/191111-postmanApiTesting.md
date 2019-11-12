@@ -26,6 +26,10 @@
 * C: pm.sendRequest() is how to make a request within the context of a test.
 * C: To run tests from the command line, use [newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/).
 
+## Follow-up material
+
+* [Run newman in docker](https://blog.getpostman.com/2015/08/07/using-the-newman-docker-image-in-windows/?_ga=2.10299253.1744532843.1573582985-718741910.1572298901)
+
 ## Test plan
 
 Create a test collection. Give that collection a pretest that requests a token from the appropriate TPAuth endpoint and sets the returned token to a collection variable. Use that variable in the authentication header of all subsequent requests.
