@@ -23,3 +23,8 @@
 * B: Also available are atob, btoa, chai, cheerio, crypto-js, csv-parse, postman-collection, tv4, uuid, and xml2js.
 * B: The following node.js modules are included: path, assert, buffer, util, url, punycode, querystring, string_decoder, stream, timers, and events.
 * C: The Postman console will capture console.log(), console.info(), console.warn() and console.error() from inside scripts.
+* C: pm.sendRequest() is how to make a request within the context of a test.
+
+## Test plan
+
+Create a test collection. Give that collection a pretest that requests a token from the appropriate TPAuth endpoint and sets the returned token to a collection variable. Use that variable in the authentication header of all subsequent requests.
