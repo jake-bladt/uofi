@@ -15,3 +15,5 @@
 
 * A: Postman supports environments. Requests can bind to environment variables using the {{handlebars}} notation.
 * A: Environmental variables have "initial value" and "current value." Initial value is less safe and will be used as placeholder text in bindings.
+* B: In order to follow along with this video, you need to be running PostgreSQL. Running it in a container on a Linux machine with your local IP address whitelisted appears to work as well.
+* B: For a script to set an environmental/global variable, use a combination of ps.info, ps.globals, and ps.environment.
