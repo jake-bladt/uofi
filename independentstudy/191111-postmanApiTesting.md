@@ -20,7 +20,7 @@
 * B: For a script to set an environmental/global variable, use a combination of ps.info, ps.globals, and ps.environment.
 * B: Standard assertions will take the form ``pm.expect(actual_value).to.eql(expected_value)``.
 * B: Postman scripts expose lodash via the underscore object "\_" and allow you to require moment using ``const moment = require('moment');``.
-* B: Also available are atob, btoa, chai, cheerio, crypto-js, csv-parse, postman-collection, tv4, uuid, and xml2js.
+* B: Also available are atob, btoa, chai, cheerio, crypto-js, csv-parse, postman-collection, tv4, uuid, and xml2js. (C: The updated list is [here](https://learning.getpostman.com/docs/postman/scripts/postman-sandbox-api-reference/).
 * B: The following node.js modules are included: path, assert, buffer, util, url, punycode, querystring, string_decoder, stream, timers, and events.
 * C: The Postman console will capture console.log(), console.info(), console.warn() and console.error() from inside scripts.
 * C: pm.sendRequest() is how to make a request within the context of a test.
