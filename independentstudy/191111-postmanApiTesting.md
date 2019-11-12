@@ -10,6 +10,7 @@
 
 * A: [Intro to Postman Part 2: authorizing a request](https://www.youtube.com/watch?v=Q23wkkfezfM)
 * B: [Pluralsight: Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
+* C: [Postman Scripts Docs](https://learning.getpostman.com/docs/postman/scripts/intro-to-scripts/)
 
 ## Notes
 
@@ -21,7 +22,4 @@
 * B: Postman scripts expose lodash via the underscore object "\_" and allow you to require moment using ``const moment = require('moment');``.
 * B: Also available are atob, btoa, chai, cheerio, crypto-js, csv-parse, postman-collection, tv4, uuid, and xml2js.
 * B: The following node.js modules are included: path, assert, buffer, util, url, punycode, querystring, string_decoder, stream, timers, and events.
-
-## Links
-
-* [Postman Scripts Docs](https://learning.getpostman.com/docs/postman/scripts/intro-to-scripts/)
+* C: The Postman console will capture console.log(), console.info(), console.warn() and console.error() from inside scripts.
