@@ -24,6 +24,7 @@
 * B: The following node.js modules are included: path, assert, buffer, util, url, punycode, querystring, string_decoder, stream, timers, and events.
 * C: The Postman console will capture console.log(), console.info(), console.warn() and console.error() from inside scripts.
 * C: pm.sendRequest() is how to make a request within the context of a test.
+* C: To run tests from the command line, use [newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/).
 
 ## Test plan
 
