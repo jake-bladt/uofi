@@ -25,6 +25,7 @@
 * C: The Postman console will capture console.log(), console.info(), console.warn() and console.error() from inside scripts.
 * C: pm.sendRequest() is how to make a request within the context of a test.
 * C: To run tests from the command line, use [newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/).
+* B: At the end of a test run, use ``pm.globals.unset()`` to avoid contamination between runs.
 
 ## Follow-up material
 
