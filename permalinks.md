@@ -12,7 +12,7 @@
 
 ## Source Control Management Systems
 
-* [Azure DevOps](https://dev.azure.com/jbladt/)
+* [Azure DevOps](https://dev.azure.com/jakebladt/)
 * [Github](https://github.com/jake-bladt)
 
 ## Training Resources
