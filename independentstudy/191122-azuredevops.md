@@ -10,3 +10,4 @@
 * Automate build number insertion in web site.
 * Build definition can be kept in source code.
 * Export existing build to YAML
+* ADO multiphase pipelines allow for an integrated CI/CD pipeline, eliminating the need for separate build and deploy pipelines, which require a hand-off between them.
