@@ -14,3 +14,4 @@
 * If ADO lists "builds" instead of "pipelines," I'll need to activate pipelines before I can work in YAML.
 * Self-hosted agents are required in order to deploy to on-premise servers.
 * YAML runs need to be authorized to work with the agent pools.
+* Windows Server 2019 on a self-hosted agent does support both Windows and Linux containers
