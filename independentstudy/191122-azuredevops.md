@@ -16,3 +16,4 @@
 * YAML runs need to be authorized to work with the agent pools.
 * Windows Server 2019 on a self-hosted agent does support both Windows and Linux containers
 * Agent can run on Windows Server Core, not Windows Nanoserver
+* Host container is mcr.microsoft.com/windows/servercore:ltsc2019. Find Microsoft documentation for the PS1 file to set it up as an Azure Devops build host.
