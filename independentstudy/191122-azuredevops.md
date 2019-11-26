@@ -11,3 +11,4 @@
 * Build definition can be kept in source code.
 * Export existing build to YAML
 * ADO multiphase pipelines allow for an integrated CI/CD pipeline, eliminating the need for separate build and deploy pipelines, which require a hand-off between them.
+* If ADO lists "builds" instead of "pipelines," I'll need to activate pipelines before I can work in YAML.
