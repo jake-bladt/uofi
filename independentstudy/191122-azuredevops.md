@@ -19,3 +19,4 @@
 * Host container is mcr.microsoft.com/windows/servercore:ltsc2019. Find Microsoft documentation for the PS1 file to set it up as an Azure Devops build host.
 * I need more PowerShell for this.
 * Windows containers use an entirely different isolation method from Linux ones.
+* aufs (union file system) is how Docker containers build up their mount points.
