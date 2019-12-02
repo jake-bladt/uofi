@@ -25,8 +25,18 @@
 
 ## Design Assets
 
+* [CreativeBloq](https://www.creativebloq.com/)
+* [FlatIcon](https://www.flaticon.com/)
+* [Free Typography](https://freetypography.com/)
+* [FreePik](https://www.freepik.com/)
+* [GraphicBurger](https://graphicburger.com/?s=free) - Check out [CozyUI](https://graphicburger.com/cozy-ui-kit-free-sample/).
+* [IconFinder](https://www.iconfinder.com/)
+* [IconMonstr](https://iconmonstr.com/)
 * [Pexels](https://www.pexels.com/)
+* [PicJumbo](https://picjumbo.com/latest-free-stock-photos/)
+* [StockSnap](https://stocksnap.io/)
 * [Undraw](https://undraw.co/)
+* [Web Designer Depot](https://www.webdesignerdepot.com/category/freebies/)
 
 ## Online Tools
 
