@@ -25,6 +25,7 @@
 
 ## Design Assets
 
+* [Pexels](https://www.pexels.com/)
 * [Undraw](https://undraw.co/)
 
 ## Online Tools
