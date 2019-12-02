@@ -8,6 +8,7 @@ A list of repos I'm interested in using, studying, or contributing to.
 
 ## Reference
 
+* [Free For Dev](https://github.com/ripienaar/free-for-dev)
 * [Free Programming Books (Ebook Foundation)](https://github.com/EbookFoundation/free-programming-books)
 
 ## WebAssembly
