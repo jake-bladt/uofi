@@ -10,3 +10,4 @@ I'm using it as a testing lab to test out AZP pipelines for a project at work.
 
 * Is it possible to run a pipeline from its JSON export?
 * How do you get a YAML representation of a pipeline?
+* Is it possible to trigger a build only on changes to a given subfolder?
