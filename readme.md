@@ -14,4 +14,4 @@ I'm using it as a testing lab to test out AZP pipelines for a project at work.
 
 ## Research
 
-* [https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1)
+* [Azure DevOps Services REST API Reference](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1)
