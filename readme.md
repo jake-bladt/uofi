@@ -11,3 +11,7 @@ I'm using it as a testing lab to test out AZP pipelines for a project at work.
 * Is it possible to run a pipeline from its JSON export?
 * How do you get a YAML representation of a pipeline?
 * Is it possible to trigger a build only on changes to a given subfolder?
+
+## Research
+
+* [https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1)
