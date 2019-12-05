@@ -14,7 +14,7 @@ I'm using it as a testing lab to test out AZP pipelines for a project at work.
 
 ## Research
 
-* [ng new](https://angular.io/cli/new)
+* [Angular 8 - JWT Authentication](https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial)
 * [Angular ng build](https://angular.io/cli/build)
 * [Running `ng build` in a specific directory](https://stackoverflow.com/questions/50046729/running-ng-build-in-a-specific-directory)
 * [Build, test, and deploy JavaScript and Node.js apps](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/javascript?view=azure-devops)
