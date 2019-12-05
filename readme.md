@@ -15,3 +15,4 @@ I'm using it as a testing lab to test out AZP pipelines for a project at work.
 ## Research
 
 * [Azure DevOps Services REST API Reference](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1)
+* [Using Path filters in Build definition in Azure DevOps / VSTS](https://mohitgoyal.co/2018/09/19/using-path-filters-in-build-definition-in-azure-devops-vsts/)
