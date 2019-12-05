@@ -16,8 +16,9 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    cd asngsite/it
     npm install -g @angular/cli
     npm install
+    pwd
+    cd asngsite/it
     ng build --prod --output-path=../ui-prod
   displayName: 'npm install and build'
