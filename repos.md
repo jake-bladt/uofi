@@ -21,6 +21,10 @@ A list of repos I'm interested in using, studying, or contributing to.
 * [Free For Dev](https://github.com/ripienaar/free-for-dev)
 * [Free Programming Books (Ebook Foundation)](https://github.com/EbookFoundation/free-programming-books)
 
+## Web UI Libraries
+
+* [Riot](https://github.com/riot/riot)
+
 ## WebAssembly
 
 * [The WebAssembly Binary Toolkit](https://github.com/WebAssembly/wabt) - tools for converting WAT into WebAssembly binaries.
