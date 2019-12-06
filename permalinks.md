@@ -48,3 +48,7 @@
 * [What's My IP?](https://whatsmyip.com/)
 * [VSDE Benefits](https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&workflowid=devprogram&mkt=en-us)
 * [WebAssembly studio](https://webassembly.studio/)
+
+## Podcasts
+
+* [The Cloudcast](https://www.thecloudcast.net/)
