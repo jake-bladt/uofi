@@ -18,6 +18,7 @@
 ## Training Resources
 
 * [AWS Online Training](https://www.aws.training/)
+* [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 * [O'Reilly Learning](https://learning.oreilly.com/home/)
 * [PluralSite](https://www.pluralsite.com)
 * [Unity GameDev](https://unity.gamedevhq.com/)
