@@ -24,7 +24,7 @@ steps:
 - task: AzureFileCopy@3
   inputs:
     SourcePath: '$(build.sourcesDirectory)/asngsite/ui-prod'
-    azureSubscription: 'a3b2c315-5cd1-4e2e-bad7-f671b6ce4410'
+    azureSubscription: 'Microsoft Azure Personal Dev (a3b2c315-5cd1-4e2e-bad7-f671b6ce4410)'
     destination: azureBlob
     containerName: 'uofi-ui'
   displayName: 'Copy to BLOb storage'
