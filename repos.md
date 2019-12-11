@@ -16,6 +16,10 @@ A list of repos I'm interested in using, studying, or contributing to.
 * [Flan Scan](https://github.com/cloudflare/flan) - A lightweight network vulnerability scanner
 * [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 
+## Patterns
+
+* [Hephaestus](https://github.com/xyncro/hephaestus) - Graph-based optimising state machine negotiations/processors
+
 ## Reference
 
 * [Free For Dev](https://github.com/ripienaar/free-for-dev)
