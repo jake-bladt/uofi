@@ -25,6 +25,10 @@ A list of repos I'm interested in using, studying, or contributing to.
 * [Free For Dev](https://github.com/ripienaar/free-for-dev)
 * [Free Programming Books (Ebook Foundation)](https://github.com/EbookFoundation/free-programming-books)
 
+## Security
+
+* [PlunderVolt](https://github.com/KitMurdock/plundervolt) - Security breaches created by fluctuating power supply
+
 ## Web UI Libraries
 
 * [Riot](https://github.com/riot/riot)
