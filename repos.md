@@ -16,6 +16,10 @@ A list of repos I'm interested in using, studying, or contributing to.
 * [Flan Scan](https://github.com/cloudflare/flan) - A lightweight network vulnerability scanner
 * [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 
+## Parsing
+
+* [AngleSharp](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications. 
+
 ## Patterns
 
 * [Hephaestus](https://github.com/xyncro/hephaestus) - Graph-based optimising state machine negotiations/processors
