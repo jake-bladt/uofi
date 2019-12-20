@@ -33,8 +33,9 @@ A list of repos I'm interested in using, studying, or contributing to.
 
 * [PlunderVolt](https://github.com/KitMurdock/plundervolt) - Security breaches created by fluctuating power supply
 
-## Web UI Libraries
+## Web Components &  UI Libraries
 
+* [goodshare](https://github.com/koddr/goodshare.js/tree/4.1.2)
 * [Riot](https://github.com/riot/riot)
 
 ## WebAssembly
