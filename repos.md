@@ -6,6 +6,10 @@ A list of repos I'm interested in using, studying, or contributing to.
 
 * [Microsoft's Host Compute Service Shim](https://github.com/microsoft/hcsshim) - a go library to allow for programmatic container creation.
 
+## Debugging Tools
+
+* [Harbour Decompiler](https://github.com/KasperskyLab/hb_dec)
+
 ## Distributed Computing
 
 * [Batchiepatchie](https://github.com/AdRoll/batchiepatchie) - a service built on top of AWS Batch that collects information on all the jobs that are running and makes them easily searchable through a beautiful user interface.
