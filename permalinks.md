@@ -57,6 +57,7 @@
 ## Podcasts
 
 * [The Cloudcast](https://www.thecloudcast.net/)
+* [Serverless Chats](https://www.serverlesschats.com/)
 
 ## News
 
