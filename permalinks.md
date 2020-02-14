@@ -50,6 +50,10 @@
 * [VSDE Benefits](https://my.visualstudio.com/Benefits?wt.mc_id=o~msft~profile~devprogram_attach&workflowid=devprogram&mkt=en-us)
 * [WebAssembly studio](https://webassembly.studio/)
 
+## Blogs
+
+* [AWS Developer Blogs](https://aws.amazon.com/blogs/developer/)
+
 ## Podcasts
 
 * [The Cloudcast](https://www.thecloudcast.net/)
