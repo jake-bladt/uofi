@@ -57,3 +57,9 @@
 ## Podcasts
 
 * [The Cloudcast](https://www.thecloudcast.net/)
+
+## News
+
+* [Hacker News](https://news.ycombinator.com/news)
+* [Slashdot](https://slashdot.org/)
+
