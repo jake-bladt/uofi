@@ -15,8 +15,9 @@
 * [Azure DevOps](https://dev.azure.com/jakebladt/)
 * [Github](https://github.com/jake-bladt)
 
-## Training Resources
+## Self-Training Resources
 
+* [MakerSpace Brooklyn](https://www.makerspace.nyc/)
 * [AWS Online Training](https://www.aws.training/)
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 * [O'Reilly Learning](https://learning.oreilly.com/home/)
