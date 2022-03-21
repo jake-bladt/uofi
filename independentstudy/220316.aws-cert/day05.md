@@ -8,7 +8,11 @@ Reviewing [Free Code Camp Developer Associate](https://www.youtube.com/watch?v=R
 
 Following along with [AWS Certified Developer Official Study Guide](https://learning.oreilly.com/library/view/aws-certified-developer/9781119508199/c01.xhtml) on O'Reilly Learning.
 
-## Day 3
+## Day 2
+
+On an EC2 instance, instance metadata can be retrieved with ```curl http://169.254.169.254/latest/meta-data```
+
+## Day 4
 
 IAM: Important to know the difference between access policies and trust policies. Review trust policies in more depth.
 
