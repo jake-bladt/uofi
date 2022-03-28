@@ -12,3 +12,10 @@ I've managed to handle the IAM policy/role problems that stopped me the last tim
 ### Session 2
 
 The trick is to create a new global index (yes, global) and give your policy/role permission to query that index. I've now created a function that retrieves steps data by user. This is the prototype for my GET /-user- endpoint.
+
+## Chapter 2: Compute
+
+* Worth repeating. EC2 instance metadata can be queried with ```curl http://169.254.169.254/latest/meta-data/``` and user data with ```curl http://169.254.169.254/latest/user-data/```.
+* To properly hide pem files: ```chmod 400 mykey.pem```
+
+Review: 22/22 (100%)
